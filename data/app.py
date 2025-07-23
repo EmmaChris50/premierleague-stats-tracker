@@ -4,6 +4,19 @@ import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
 
+st.markdown(
+    """
+    <style>
+    .css-1jc7ptx, .e1ewe7hr3, .viewerBadge_container__1QSob,
+    .styles_viewerBadge_1yB5, .viewerBadge_link__1S137,
+    .viewerBadge_text__1JaDK {
+        display: none;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)       
+
 # Load datasets
 matches_df = pd.read_csv("data/matches_clean.csv")
 team_stats = pd.read_csv("data/team_stats.csv")
