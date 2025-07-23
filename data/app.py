@@ -5,9 +5,9 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 
 # Load datasets
-matches_df = pd.read_csv("../data/matches_clean.csv")
-team_stats = pd.read_csv("../data/team_stats.csv")
-scorers_df = pd.read_csv("../data/scorers.csv")
+matches_df = pd.read_csv("matches_clean.csv")
+team_stats = pd.read_csv("data/team_stats.csv")
+scorers_df = pd.read_csv("data/scorers.csv")
 
 # App Title and Sidebar
 st.set_page_config(page_title="Premier League Dashboard", layout="wide")
