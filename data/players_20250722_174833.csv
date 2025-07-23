@@ -1,0 +1,895 @@
+player_name,age,nationality,club,position,appearances,starts,minutes,goals,assists,total_passes,penalty_goals,yellow_card,red_card
+B. Knight,23,England,Manchester City,Midfielder,0,0,0,0,,,,0,0
+K. Walker,35,England,Manchester City,Defender,32,30,2767,0,4.0,2136.0,0.0,2,0
+Max Alleyne,20,England,Manchester City,Defender,0,0,0,0,,,,0,0
+S. Carson,40,England,Manchester City,Goalkeeper,0,0,0,0,,,0.0,0,0
+Mahamadou Susoho Sissoho,20,Spain,Manchester City,Midfielder,0,0,0,0,,,0.0,0,0
+K. De Bruyne,34,Belgium,Manchester City,Midfielder,18,15,1228,4,10.0,804.0,0.0,2,0
+Sergio Gómez,25,Spain,Manchester City,Midfielder,6,0,48,0,1.0,49.0,0.0,0,0
+J. Álvarez,25,Argentina,Manchester City,Attacker,36,31,2658,11,8.0,1110.0,2.0,2,0
+Rodri,29,Spain,Manchester City,Midfielder,34,34,2937,8,9.0,3630.0,0.0,8,1
+P. Foden,25,England,Manchester City,Midfielder,35,33,2868,19,8.0,1670.0,0.0,2,0
+J. Doku,23,Belgium,Manchester City,Attacker,29,18,1595,3,8.0,786.0,0.0,3,0
+E. Haaland,25,Norway,Manchester City,Attacker,31,29,2559,27,5.0,381.0,7.0,1,0
+M. Kovačić,31,Croatia,Manchester City,Midfielder,30,16,1546,1,0.0,1521.0,0.0,4,0
+J. McAtee,23,England,Manchester City,Midfielder,1,0,0,0,,,0.0,0,0
+Bernardo Silva,31,Portugal,Manchester City,Midfielder,33,29,2581,6,9.0,1824.0,0.0,8,0
+Oscar Bobb,22,Norway,Manchester City,Midfielder,14,2,291,1,1.0,168.0,0.0,0,0
+Matheus Nunes,27,Portugal,Manchester City,Midfielder,17,7,655,0,2.0,422.0,0.0,0,0
+J. Grealish,30,England,Manchester City,Midfielder,20,10,1003,3,1.0,552.0,0.0,7,0
+K. Phillips,30,England,Manchester City,Midfielder,4,0,89,0,,68.0,0.0,0,0
+M. Perrone,22,Argentina,Manchester City,Midfielder,0,0,0,0,,,0.0,0,0
+R. Lewis,21,England,Manchester City,Defender,16,8,806,2,,533.0,0.0,1,0
+Rúben Dias,28,Portugal,Manchester City,Defender,30,28,2557,0,0.0,2609.0,0.0,0,0
+J. Gvardiol,23,Croatia,Manchester City,Defender,28,26,2330,4,1.0,1732.0,0.0,3,0
+N. Aké,30,Netherlands,Manchester City,Defender,29,24,2042,2,2.0,1770.0,0.0,0,0
+M. Akanji,30,Switzerland,Manchester City,Defender,30,28,2512,2,0.0,2296.0,0.0,3,0
+J. Stones,31,England,Manchester City,Defender,16,12,1063,1,,831.0,0.0,2,0
+S. Ortega,33,Germany,Manchester City,Goalkeeper,9,5,631,0,0.0,242.0,0.0,0,0
+Ederson,32,Brazil,Manchester City,Goalkeeper,33,33,2789,0,,1096.0,0.0,5,0
+C. Palmer,23,England,Manchester City,Midfielder,1,0,10,0,11.0,1302.0,9.0,0,0
+R. Mahrez,34,Algeria,Manchester City,Attacker,0,0,0,0,,,,0,0
+Aymeric Laporte,31,Spain,Manchester City,Defender,1,0,11,0,,11.0,0.0,0,0
+João Cancelo,31,Portugal,Manchester City,Defender,0,0,0,0,,,,0,0
+Z. Steffen,30,USA,Manchester City,Goalkeeper,0,0,0,0,,,,0,0
+T. Harwood-Bellis,23,England,Manchester City,Defender,0,0,0,0,,,,0,0
+Jacob Wright,20,England,Manchester City,Midfielder,0,0,0,0,,,0.0,0,0
+Micah Hamilton,22,England,Manchester City,Attacker,0,0,0,0,,,0.0,0,0
+Thiago Alcântara,33,Spain,Liverpool,Midfielder,1,0,5,0,,10.0,0.0,0,0
+J. Matip,33,Cameroon,Liverpool,Defender,10,9,783,0,,563.0,0.0,2,0
+Diogo Jota,29,Portugal,Liverpool,Attacker,21,14,1150,10,3.0,384.0,0.0,2,0
+O. Beck,23,Wales,Liverpool,Defender,1,0,7,0,,4.0,0.0,0,0
+C. Scanlon,20,England,Liverpool,Defender,0,0,0,0,,,0.0,0,0
+Fabian Mrozek,22,Poland,Liverpool,Goalkeeper,0,0,0,0,,,0.0,0,0
+Kaide Gordon,21,England,Liverpool,Attacker,1,0,0,0,,1.0,0.0,0,0
+J. McConnell,21,England,Liverpool,Midfielder,3,0,1,0,,6.0,0.0,0,0
+L. Chambers,21,England,Liverpool,Defender,0,0,0,0,,,0.0,0,0
+B. Clark,20,England,Liverpool,Midfielder,5,1,86,0,,49.0,0.0,0,0
+Stefan Bajčetić,21,Spain,Liverpool,Midfielder,1,0,26,0,,10.0,0.0,0,0
+J. Henderson,35,England,Liverpool,Midfielder,0,0,0,0,,,,0,0
+J. Quansah,22,England,Liverpool,Defender,17,13,1189,2,0.0,1165.0,0.0,1,0
+Adrián,38,Spain,Liverpool,Goalkeeper,0,0,0,0,,,0.0,0,0
+T. Alexander-Arnold,27,England,Liverpool,Defender,28,25,2161,3,4.0,1683.0,0.0,6,0
+C. Kelleher,27,Republic of Ireland,Liverpool,Goalkeeper,10,10,900,0,,387.0,0.0,0,0
+J. Danns,19,England,Liverpool,Attacker,2,0,7,0,,7.0,0.0,1,0
+Mohamed Salah,33,Egypt,Liverpool,Attacker,32,28,2536,18,10.0,935.0,5.0,2,0
+D. Núñez,26,Uruguay,Liverpool,Attacker,36,22,2047,11,8.0,465.0,0.0,9,0
+L. Koumas,20,England,Liverpool,Attacker,0,0,0,0,,,0.0,0,0
+C. Gakpo,26,Netherlands,Liverpool,Attacker,35,17,1645,8,5.0,535.0,0.0,1,0
+B. Doak,20,Scotland,Liverpool,Attacker,1,0,13,0,,4.0,0.0,0,0
+T. Nyoni,18,England,Liverpool,Midfielder,0,0,0,0,,,0.0,0,0
+D. Szoboszlai,25,Hungary,Liverpool,Midfielder,33,25,2108,3,2.0,1397.0,0.0,1,0
+L. Díaz,28,Colombia,Liverpool,Attacker,37,32,2645,8,5.0,1018.0,0.0,3,0
+H. Elliott,22,England,Liverpool,Midfielder,34,11,1337,3,6.0,904.0,0.0,2,0
+A. Mac Allister,27,Argentina,Liverpool,Midfielder,33,31,2611,5,5.0,1923.0,1.0,7,1
+W. Endo,32,Japan,Liverpool,Midfielder,29,20,1722,1,0.0,1305.0,0.0,10,0
+C. Jones,24,England,Liverpool,Midfielder,23,14,1168,1,1.0,750.0,0.0,3,1
+R. Gravenberch,23,Netherlands,Liverpool,Midfielder,26,12,1117,1,0.0,493.0,0.0,0,0
+I. Konaté,26,France,Liverpool,Defender,22,17,1571,0,,1445.0,0.0,4,0
+J. Gomez,28,England,Liverpool,Defender,32,17,1777,0,1.0,1148.0,0.0,5,0
+A. Nallo,19,England,Liverpool,Defender,0,0,0,0,,,0.0,0,0
+V. van Dijk,34,Netherlands,Liverpool,Defender,36,36,3178,2,2.0,2871.0,0.0,3,1
+C. Bradley,22,Northern Ireland,Liverpool,Defender,11,10,761,1,3.0,435.0,0.0,2,0
+A. Robertson,31,Scotland,Liverpool,Defender,23,18,1692,3,2.0,1244.0,0.0,2,0
+Alisson Becker,33,Brazil,Liverpool,Goalkeeper,28,28,2520,0,0.0,997.0,0.0,1,0
+Marcelo,23,Brazil,Liverpool,Goalkeeper,0,0,0,0,,,0.0,0,0
+Fabinho,32,Brazil,Liverpool,Midfielder,0,0,0,0,,,,0,0
+N. Phillips,28,England,Liverpool,Defender,0,0,0,0,,,,0,0
+K. Tsimikas,29,Greece,Liverpool,Defender,13,8,676,0,3.0,360.0,0.0,0,0
+Mauro Bandeira,22,Portugal,Arsenal,Midfielder,0,0,0,0,,,0.0,0,0
+Mohamed Elneny,33,Egypt,Arsenal,Midfielder,3,0,25,0,,40.0,0.0,0,0
+Jorginho,34,Italy,Arsenal,Midfielder,24,10,914,0,2.0,773.0,0.0,1,0
+T. Partey,32,Ghana,Arsenal,Midfielder,14,9,788,0,0.0,621.0,0.0,3,0
+T. Tomiyasu,27,Japan,Arsenal,Defender,22,10,1141,2,1.0,608.0,0.0,1,0
+K. Tierney,28,Scotland,Arsenal,Defender,0,0,0,0,,,,0,0
+A. Cozier-Duberry,20,England,Arsenal,Midfielder,0,0,0,0,,,,0,0
+B. Ibrahim,21,England,Arsenal,Midfielder,0,0,0,0,,,0.0,0,0
+C. Sagoe,21,England,Arsenal,Attacker,0,0,0,0,,,0.0,0,0
+James Lannin-Sweet,22,England,Arsenal,Defender,0,0,0,0,,,0.0,0,0
+R. Walters,21,England,Arsenal,Defender,0,0,0,0,,,0.0,0,0
+F. Balogun,24,USA,Arsenal,Attacker,0,0,0,0,,,,0,0
+Nuno Tavares,25,Portugal,Arsenal,Defender,0,0,0,0,,218.0,0.0,0,0
+N. Pépé,30,Côte d'Ivoire,Arsenal,Attacker,0,0,0,0,,,,0,0
+M. Turner,31,USA,Arsenal,Goalkeeper,0,0,0,0,,473.0,0.0,0,0
+E. Nketiah,26,England,Arsenal,Attacker,27,10,1072,5,2.0,209.0,0.0,3,0
+R. Holding,30,England,Arsenal,Defender,0,0,0,0,,,0.0,0,0
+A. Heaven,19,England,Arsenal,Defender,0,0,0,0,,,,0,0
+E. Smith Rowe,25,England,Arsenal,Midfielder,13,3,346,0,1.0,211.0,0.0,0,0
+Gabriel Martinelli,24,Brazil,Arsenal,Attacker,35,24,2029,6,4.0,807.0,0.0,1,0
+L. Trossard,31,Belgium,Arsenal,Attacker,34,18,1647,12,1.0,607.0,0.0,2,0
+K. Havertz,26,Germany,Arsenal,Attacker,37,30,2639,13,7.0,932.0,1.0,11,0
+B. Saka,24,England,Arsenal,Attacker,35,35,2937,16,8.0,1310.0,6.0,4,0
+Gabriel Jesus,28,Brazil,Arsenal,Attacker,27,17,1481,4,5.0,490.0,0.0,6,0
+R. Nelson,26,England,Arsenal,Attacker,15,1,255,0,,127.0,0.0,1,0
+M. Ødegaard,27,Norway,Arsenal,Midfielder,35,35,3104,8,10.0,1900.0,2.0,2,0
+E. Nwaneri,18,England,Arsenal,Midfielder,1,0,13,0,,18.0,0.0,0,0
+Fábio Vieira,25,Portugal,Arsenal,Midfielder,11,2,291,1,2.0,134.0,1.0,0,1
+M. Lewis-Skelly,19,England,Arsenal,Midfielder,0,0,0,0,,,0.0,0,0
+D. Rice,26,England,Arsenal,Midfielder,38,37,3232,7,8.0,2226.0,0.0,5,0
+A. Sambi Lokonga,26,Belgium,Arsenal,Midfielder,0,0,0,0,3.0,740.0,0.0,0,0
+O. Zinchenko,29,Ukraine,Arsenal,Defender,27,20,1727,1,2.0,1411.0,0.0,2,0
+W. Saliba,24,France,Arsenal,Defender,38,38,3420,2,1.0,2839.0,0.0,4,0
+Gabriel Magalhães,28,Brazil,Arsenal,Defender,36,34,3044,4,0.0,2144.0,0.0,4,0
+J. Kiwior,25,Poland,Arsenal,Defender,20,11,941,1,3.0,544.0,0.0,1,0
+B. White,28,England,Arsenal,Defender,37,35,2994,4,4.0,1911.0,0.0,8,0
+J. Timber,24,Netherlands,Arsenal,Defender,2,1,71,0,0.0,67.0,0.0,2,0
+David Raya,30,Spain,Arsenal,Goalkeeper,32,32,2880,0,0.0,906.0,0.0,2,0
+K. Hein,23,Estonia,Arsenal,Goalkeeper,0,0,0,0,,,0.0,0,0
+A. Trusty,27,USA,Arsenal,Defender,0,0,0,0,0.0,846.0,0.0,0,0
+Cédric Soares,34,Portugal,Arsenal,Defender,3,0,59,0,,59.0,0.0,0,0
+Marquinhos,22,Brazil,Arsenal,Attacker,0,0,0,0,,,,0,0
+A. Okonkwo,24,England,Arsenal,Goalkeeper,0,0,0,0,,,,0,0
+A. Ramsdale,27,England,Arsenal,Goalkeeper,6,6,540,0,,158.0,0.0,0,0
+R. Rúnarsson,30,Iceland,Arsenal,Goalkeeper,0,0,0,0,,,,0,0
+B. Williams,24,England,Manchester United,Defender,0,0,0,0,,,,0,0
+R. Varane,31,France,Manchester United,Defender,22,16,1373,1,0.0,774.0,0.0,2,0
+Marc Jurado,21,Spain,Manchester United,Defender,0,0,0,0,,,,0,0
+O. Forson,21,England,Manchester United,Attacker,4,1,68,0,1.0,33.0,0.0,0,0
+Reguilón,29,Spain,Manchester United,Defender,9,4,410,0,4.0,412.0,0.0,3,0
+R. Bennett,22,England,Manchester United,Defender,0,0,0,0,,,0.0,0,0
+C. Eriksen,33,Denmark,Manchester United,Midfielder,22,12,1138,1,2.0,754.0,0.0,1,0
+J. Evans,37,Northern Ireland,Manchester United,Defender,23,15,1391,0,1.0,827.0,0.0,2,0
+V. Lindelöf,31,Sweden,Manchester United,Defender,19,14,1331,1,1.0,876.0,0.0,2,0
+C. Savage,22,Wales,Manchester United,Midfielder,0,0,0,0,,,,0,0
+T. Mengi,23,England,Manchester United,Defender,0,0,0,0,0.0,928.0,0.0,0,0
+J. Hugill,22,England,Manchester United,Attacker,0,0,0,0,,,0.0,0,0
+H. Ogunneye,20,England,Manchester United,Defender,0,0,0,0,,,0.0,0,0
+Louis Jackson,20,England,Manchester United,Defender,0,0,0,0,,,0.0,0,0
+Dermot William Mee,23,Northern Ireland,Manchester United,Goalkeeper,0,0,0,0,,,0.0,0,0
+E. Bailly,31,Côte d'Ivoire,Manchester United,Defender,0,0,0,0,,,,0,0
+R. Vítek,22,Czechia,Manchester United,Goalkeeper,0,0,0,0,,,0.0,0,0
+T. Malacia,26,Netherlands,Manchester United,Defender,0,0,0,0,,,,0,0
+M. Greenwood,24,England,Manchester United,Attacker,0,0,0,0,,,,0,0
+S. McTominay,29,Scotland,Manchester United,Midfielder,32,18,1890,7,1.0,642.0,0.0,2,0
+M. Kovář,25,Czech Republic,Manchester United,Goalkeeper,0,0,0,0,,,,0,0
+D. van de Beek,28,Netherlands,Manchester United,Midfielder,1,0,2,0,,1.0,0.0,0,0
+Willy Kambwala Ndengushi,21,France,Manchester United,Defender,8,3,326,0,,191.0,0.0,1,0
+D. Henderson,28,England,Manchester United,Goalkeeper,0,0,0,0,0.0,430.0,0.0,0,0
+H. Mejbri,22,Tunisia,Manchester United,Midfielder,5,1,129,1,,36.0,0.0,1,0
+A. Wan-Bissaka,28,England,Manchester United,Defender,22,20,1782,0,2.0,832.0,0.0,4,0
+N. Bishop,26,England,Manchester United,Goalkeeper,0,0,0,0,,,,0,0
+A. Elanga,23,Sweden,Manchester United,Attacker,0,0,0,0,9.0,645.0,0.0,0,0
+A. Garnacho,21,Argentina,Manchester United,Attacker,36,30,2578,7,4.0,834.0,0.0,4,0
+M. Rashford,28,England,Manchester United,Attacker,33,26,2278,7,2.0,684.0,2.0,2,0
+E. Wheatley,19,England,Manchester United,Attacker,3,0,12,0,,,0.0,0,0
+Antony,25,Brazil,Manchester United,Attacker,29,15,1322,1,1.0,561.0,0.0,5,0
+A. Diallo,23,Côte d'Ivoire,Manchester United,Attacker,9,3,387,1,1.0,167.0,0.0,1,0
+J. Sancho,25,England,Manchester United,Attacker,3,0,76,0,,41.0,0.0,0,0
+Tobias Christopher Collyer,21,England,Manchester United,Midfielder,0,0,0,0,,,0.0,0,0
+Daniel Gore,21,England,Manchester United,Midfielder,1,0,0,0,,,0.0,0,0
+Casemiro,33,Brazil,Manchester United,Midfielder,25,24,1987,1,2.0,1406.0,0.0,7,0
+K. Mainoo,20,England,Manchester United,Midfielder,24,24,1942,3,1.0,862.0,0.0,3,0
+M. Mount,26,England,Manchester United,Midfielder,14,5,511,1,,203.0,0.0,2,0
+Bruno Fernandes,31,Portugal,Manchester United,Midfielder,35,35,3120,10,8.0,1912.0,4.0,9,0
+Lisandro Martínez,27,Argentina,Manchester United,Defender,11,8,649,0,1.0,442.0,0.0,3,0
+H. Amass,18,England,Manchester United,Defender,0,0,0,0,,,0.0,0,0
+L. Shaw,30,England,Manchester United,Defender,12,12,963,0,,551.0,0.0,6,0
+Diogo Dalot,26,Portugal,Manchester United,Defender,36,35,3174,2,3.0,1493.0,0.0,5,0
+H. Maguire,32,England,Manchester United,Defender,22,18,1650,2,2.0,1096.0,0.0,4,0
+A. Bayındır,27,Türkiye,Manchester United,Goalkeeper,0,0,0,0,,,0.0,0,0
+T. Heaton,39,England,Manchester United,Goalkeeper,0,0,0,0,,,0.0,0,0
+A. Onana,29,Cameroon,Manchester United,Goalkeeper,38,38,3420,0,0.0,1373.0,0.0,5,0
+Fred,32,Brazil,Manchester United,Midfielder,0,0,0,0,,,,0,0
+E. Dier,31,England,Tottenham,Defender,4,1,197,0,,141.0,0.0,0,0
+Reguilón,29,Spain,Tottenham,Defender,0,0,0,0,4.0,412.0,0.0,0,0
+A. Whiteman,27,England,Tottenham,Goalkeeper,0,0,0,0,,,0.0,0,0
+F. Forster,37,England,Tottenham,Goalkeeper,0,0,0,0,,,0.0,0,0
+H. White,24,England,Tottenham,Midfielder,0,0,0,0,,,,0,0
+M. Craig,22,Scotland,Tottenham,Midfielder,0,0,0,0,,,,0,0
+T. Hall,20,England,Tottenham,Midfielder,0,0,0,0,,,0.0,0,0
+C. Sayers,21,England,Tottenham,Defender,0,0,0,0,,,,0,0
+M. Moore,18,England,Tottenham,Attacker,2,0,2,0,0.0,5.0,0.0,0,0
+J. Donley,20,England,Tottenham,Midfielder,3,0,0,0,,1.0,0.0,1,0
+I. Perišić,36,Croatia,Tottenham,Attacker,5,0,98,0,1.0,61.0,0.0,2,0
+P. Højbjerg,30,Denmark,Tottenham,Midfielder,36,8,1287,0,0.0,1383.0,0.0,4,0
+T. Ndombélé,29,France,Tottenham,Midfielder,0,0,0,0,,,,0,0
+Emerson Royal,26,Brazil,Tottenham,Defender,22,11,1153,1,0.0,948.0,0.0,4,0
+T. Werner,29,Germany,Tottenham,Attacker,13,10,815,2,3.0,323.0,0.0,1,0
+H. Kane,32,England,Tottenham,Attacker,0,0,0,0,,,,0,0
+G. Lo Celso,29,Argentina,Tottenham,Midfielder,22,4,495,2,2.0,483.0,0.0,2,0
+M. Solomon,26,Israel,Tottenham,Attacker,5,2,198,0,2.0,85.0,0.0,1,0
+J. Rodon,28,Wales,Tottenham,Defender,0,0,0,0,,,,0,0
+B. Johnson,24,Wales,Tottenham,Attacker,32,23,2091,5,,58.0,0.0,3,0
+Bryan Gil,24,Spain,Tottenham,Attacker,11,2,202,0,,144.0,0.0,0,0
+Richarlison,28,Brazil,Tottenham,Attacker,28,18,1493,11,4.0,373.0,0.0,3,0
+D. Scarlett,21,England,Tottenham,Attacker,4,0,18,0,0.0,3.0,0.0,0,0
+Son Heung-Min,33,Korea Republic,Tottenham,Attacker,35,34,2948,17,10.0,1025.0,2.0,1,0
+J. Maddison,29,England,Tottenham,Midfielder,28,26,2154,4,9.0,1346.0,0.0,5,0
+R. Bentancur,28,Uruguay,Tottenham,Midfielder,23,13,1007,1,1.0,787.0,0.0,7,0
+A. Devine,21,England,Tottenham,Midfielder,0,0,0,0,,,,0,0
+P. Sarr,23,Senegal,Tottenham,Midfielder,34,27,2085,3,3.0,1311.0,0.0,9,0
+Y. Bissouma,29,Mali,Tottenham,Midfielder,28,26,2083,0,,1834.0,0.0,10,1
+D. Kulusevski,25,Sweden,Tottenham,Midfielder,36,31,2767,8,3.0,1132.0,0.0,7,0
+D. Udogie,23,Italy,Tottenham,Defender,28,28,2398,2,3.0,1214.0,0.0,6,0
+M. van de Ven,24,Netherlands,Tottenham,Defender,27,27,2343,3,0.0,1782.0,0.0,5,0
+Pedro Porro,26,Spain,Tottenham,Defender,35,35,3093,3,7.0,1864.0,0.0,3,0
+R. Drăgușin,23,Romania,Tottenham,Defender,9,4,424,0,0.0,369.0,0.0,1,0
+A. Phillips,20,England,Tottenham,Defender,0,0,0,0,,,0.0,0,0
+D. Spence,25,England,Tottenham,Defender,0,0,0,0,,,,0,0
+C. Romero,27,Argentina,Tottenham,Defender,33,33,2793,5,0.0,2586.0,0.0,7,1
+G. Vicario,29,Italy,Tottenham,Goalkeeper,38,38,3420,0,0.0,1372.0,0.0,2,0
+B. Austin,26,England,Tottenham,Goalkeeper,0,0,0,0,,,0.0,0,0
+B. Davies,32,Wales,Tottenham,Defender,17,12,1086,1,,812.0,0.0,2,0
+R. Sessegnon,25,England,Tottenham,Midfielder,0,0,0,0,,,,0,0
+A. Dorrington,20,England,Tottenham,Defender,0,0,0,0,,,0.0,0,0
+D. Sánchez,29,Colombia,Tottenham,Defender,1,0,76,0,,74.0,0.0,1,0
+H. Lloris,39,France,Tottenham,Goalkeeper,0,0,0,0,,,,0,0
+Yago Alonso,22,Spain,Tottenham,Attacker,0,0,0,0,,,0.0,0,0
+J. Tanganga,26,England,Tottenham,Defender,0,0,0,0,,,,0,0
+O. Skipp,25,England,Tottenham,Midfielder,21,5,695,0,0.0,373.0,0.0,3,0
+A. Véliz,22,Argentina,Tottenham,Attacker,8,0,42,1,,10.0,0.0,1,0
+J. Anang,25,England,West Ham,Goalkeeper,0,0,0,0,,,0.0,0,0
+S. Benrahma,30,Algeria,West Ham,Attacker,13,5,616,0,1.0,238.0,0.0,1,0
+L. Laing,22,England,West Ham,Defender,0,0,0,0,,,0.0,0,0
+A. Ogbonna,37,Italy,West Ham,Defender,11,7,633,0,,214.0,0.0,1,0
+D. Ings,33,England,West Ham,Attacker,20,3,389,1,0.0,105.0,0.0,1,0
+V. Coufal,33,Czechia,West Ham,Defender,36,36,3140,0,7.0,1229.0,0.0,6,0
+Ł. Fabiański,40,Poland,West Ham,Goalkeeper,10,7,718,0,,194.0,0.0,0,0
+Luizão,23,Brazil,West Ham,Defender,0,0,0,0,,,,0,0
+T. Kehrer,29,Germany,West Ham,Defender,4,0,18,0,,7.0,0.0,2,0
+N. Vlašić,28,Croatia,West Ham,Midfielder,0,0,0,0,,,,0,0
+G. Scamacca,26,Italy,West Ham,Attacker,0,0,0,0,,,,0,0
+Pablo Fornals,29,Spain,West Ham,Midfielder,15,4,418,0,,200.0,0.0,0,0
+C. Marshall,21,Northern Ireland,West Ham,Attacker,0,0,0,0,,,0.0,0,0
+M. Antonio,35,Jamaica,West Ham,Attacker,26,21,1708,6,2.0,268.0,0.0,6,0
+J. Bowen,29,England,West Ham,Attacker,34,34,3021,16,6.0,622.0,0.0,2,0
+M. Cornet,29,Côte d'Ivoire,West Ham,Attacker,7,1,108,1,,48.0,0.0,0,0
+J. Ward-Prowse,31,England,West Ham,Midfielder,37,34,3005,7,7.0,1472.0,2.0,4,0
+E. Álvarez,28,Mexico,West Ham,Midfielder,31,28,2384,1,1.0,1195.0,0.0,11,0
+George Earthy,21,England,West Ham,Midfielder,3,0,32,1,0.0,17.0,0.0,0,0
+L. Orford,19,England,West Ham,Midfielder,0,0,0,0,,,0.0,0,0
+T. Souček,30,Czechia,West Ham,Midfielder,37,34,2876,7,2.0,947.0,0.0,7,0
+Lucas Paquetá,28,Brazil,West Ham,Midfielder,31,31,2638,4,6.0,1411.0,2.0,10,0
+O. Scarles,20,England,West Ham,Defender,0,0,0,0,,,0.0,0,0
+K. Casey,21,England,West Ham,Defender,1,0,0,0,,,0.0,0,0
+Emerson,31,Italy,West Ham,Defender,36,35,3142,1,2.0,1434.0,0.0,10,0
+K. Mavropanos,28,Greece,West Ham,Defender,19,16,1498,1,0.0,627.0,0.0,2,0
+N. Aguerd,29,Morocco,West Ham,Defender,21,21,1859,1,,1164.0,0.0,2,0
+A. Areola,32,France,West Ham,Goalkeeper,31,31,2702,0,0.0,718.0,0.0,1,0
+K. Hegyi,23,Hungary,West Ham,Goalkeeper,0,0,0,0,,,,0,0
+K. Phillips,30,England,West Ham,Midfielder,8,3,307,0,,68.0,0.0,2,0
+D. Rice,26,England,West Ham,Midfielder,0,0,0,0,8.0,2226.0,0.0,0,0
+K. Zouma,31,France,West Ham,Defender,33,32,2840,3,0.0,1143.0,0.0,3,0
+D. Mubama,21,England,West Ham,Attacker,5,0,75,0,,22.0,0.0,0,0
+A. Cresswell,36,England,West Ham,Defender,11,4,431,0,0.0,247.0,0.0,1,0
+F. Downes,26,England,West Ham,Midfielder,0,0,0,0,,,,0,0
+B. Johnson,25,England,West Ham,Defender,14,4,533,0,,262.0,0.0,1,0
+C. Coventry,25,Republic of Ireland,West Ham,Midfielder,0,0,0,0,,,0.0,0,0
+M. Kudus,25,Ghana,West Ham,Midfielder,33,27,2487,8,6.0,773.0,0.0,6,0
+M. Šarkić,27,Montenegro,Wolves,Goalkeeper,0,0,0,0,,,,0,0
+O. Hesketh,22,Wales,Wolves,Midfielder,0,0,0,0,,,0.0,0,0
+Pablo Sarabia,33,Spain,Wolves,Midfielder,30,20,1749,4,7.0,829.0,2.0,5,0
+C. Dawson,35,England,Wolves,Defender,25,25,2211,1,1.0,1272.0,0.0,7,0
+Ty Kimoni Barnett,20,England,Wolves,Attacker,0,0,0,0,,,0.0,0,0
+E. Ballard-Matthews,17,England,Wolves,Attacker,0,0,0,0,,,,0,0
+Matthew Whittingham,21,England,Wolves,Midfielder,0,0,0,0,,,0.0,0,0
+Temple Ojinnaka,20,England,Wolves,Midfielder,0,0,0,0,,,0.0,0,0
+Justin Quincy Hubner,22,Netherlands,Wolves,Defender,0,0,0,0,,,0.0,0,0
+H. Griffiths,22,England,Wolves,Midfielder,0,0,0,0,,,0.0,0,0
+F. Holman,21,England,Wolves,Attacker,0,0,0,0,,,0.0,0,0
+L. Chiwome,19,England,Wolves,Attacker,3,2,175,0,,22.0,0.0,0,0
+Chiquinho,25,Portugal,Wolves,Attacker,0,0,0,0,,,,0,0
+N. Fraser,20,Republic of Ireland,Wolves,Attacker,7,1,180,0,,42.0,0.0,1,0
+Wesley Okoduwa,17,England,Wolves,Defender,0,0,0,0,,,0.0,0,0
+Hugo Bueno,23,Spain,Wolves,Defender,22,7,730,0,0.0,330.0,0.0,1,0
+Jonny,31,Spain,Wolves,Defender,1,0,4,0,,,0.0,0,0
+E. González,20,Paraguay,Wolves,Attacker,1,0,0,0,,6.0,0.0,0,0
+S. Kalajdzic,28,Austria,Wolves,Attacker,11,1,157,2,,59.0,0.0,1,0
+Hwang Hee-Chan,29,Korea Republic,Wolves,Attacker,29,25,2125,12,3.0,530.0,1.0,6,0
+Fábio Silva,23,Portugal,Wolves,Attacker,8,3,261,0,,75.0,0.0,2,0
+J. Hodge,23,Republic of Ireland,Wolves,Midfielder,0,0,0,0,,,0.0,0,0
+Gonçalo Guedes,29,Portugal,Wolves,Attacker,0,0,0,0,,,,0,0
+B. Traoré,24,Mali,Wolves,Midfielder,24,7,805,0,0.0,443.0,0.0,4,0
+T. Chirewa,22,England,Wolves,Midfielder,8,1,139,0,,53.0,0.0,1,0
+João Gomes,24,Brazil,Wolves,Midfielder,34,32,2660,2,1.0,1237.0,0.0,11,0
+J. Bellegarde,27,France,Wolves,Midfielder,22,10,957,2,1.0,281.0,0.0,0,1
+Y. Mosquera,24,Colombia,Wolves,Defender,0,0,0,0,,,0.0,0,0
+Toti Gomes,26,Portugal,Wolves,Defender,35,31,2778,1,3.0,1713.0,0.0,7,0
+Nélson Semedo,32,Portugal,Wolves,Defender,36,36,3091,0,1.0,1516.0,0.0,11,1
+M. Doherty,33,Republic of Ireland,Wolves,Defender,30,9,1136,1,0.0,564.0,0.0,2,0
+S. Bueno,27,Uruguay,Wolves,Defender,12,9,821,0,0.0,476.0,0.0,1,0
+José Sá,32,Portugal,Wolves,Goalkeeper,35,35,3039,0,1.0,904.0,0.0,1,0
+T. King,30,Wales,Wolves,Goalkeeper,0,0,0,0,,,0.0,0,0
+D. Bentley,32,England,Wolves,Goalkeeper,5,3,381,0,,135.0,0.0,0,0
+M. Kilman,28,England,Wolves,Defender,38,38,3420,2,0.0,2286.0,0.0,7,0
+Matheus Cunha,26,Brazil,Wolves,Attacker,32,29,2454,12,7.0,786.0,1.0,9,0
+Matheus Nunes,27,Portugal,Wolves,Midfielder,2,2,180,0,2.0,422.0,0.0,1,0
+R. Aït-Nouri,24,Algeria,Wolves,Defender,33,29,2345,2,1.0,1038.0,0.0,7,0
+R. Jiménez,34,Mexico,Wolves,Attacker,0,0,0,0,0.0,372.0,0.0,0,0
+Pedro Neto,25,Portugal,Wolves,Attacker,20,18,1520,2,9.0,589.0,0.0,4,0
+Bruno Jordão,27,Portugal,Wolves,Midfielder,0,0,0,0,,,,0,0
+M. Lemina,32,Gabon,Wolves,Midfielder,35,34,2976,4,1.0,1439.0,0.0,11,0
+Daniel Podence,30,Portugal,Wolves,Attacker,0,0,0,0,,,,0,0
+N. Lemina,20,France,Wolves,Attacker,0,0,0,0,,,0.0,0,0
+L. Cundle,23,England,Wolves,Midfielder,0,0,0,0,,,,0,0
+T. Doyle,24,England,Wolves,Midfielder,26,11,1213,0,0.0,911.0,0.0,2,0
+J. Harrison,29,England,Everton,Attacker,29,25,2218,3,3.0,534.0,0.0,1,0
+D. Calvert-Lewin,28,England,Everton,Attacker,32,26,2189,7,2.0,433.0,2.0,2,0
+A. Doucouré,32,Mali,Everton,Midfielder,32,32,2643,7,1.0,865.0,0.0,7,0
+A. Young,40,England,Everton,Defender,31,27,2289,0,0.0,775.0,0.0,6,0
+João Virgínia,26,Portugal,Everton,Goalkeeper,0,0,0,0,,,0.0,0,0
+Mackenzie Hunt,24,England,Everton,Defender,0,0,0,0,,,0.0,0,0
+A. Lonergan,42,England,Everton,Goalkeeper,0,0,0,0,,,0.0,0,0
+Jenson Metcalfe,21,England,Everton,Midfielder,0,0,0,0,,,0.0,0,0
+B. Crellin,25,England,Everton,Goalkeeper,0,0,0,0,,,0.0,0,0
+L. Warrington,23,England,Everton,Midfielder,1,0,0,0,,2.0,0.0,0,0
+S. McAllister,23,Northern Ireland,Everton,Midfielder,0,0,0,0,,,,0,0
+M. Holgate,29,England,Everton,Defender,0,0,0,0,0.0,165.0,0.0,0,0
+T. Onyango,22,England,Everton,Midfielder,1,0,0,0,,,0.0,0,0
+N. Maupay,29,France,Everton,Attacker,2,1,112,0,3.0,372.0,0.0,0,0
+André Gomes,32,Portugal,Everton,Midfielder,12,3,503,1,,259.0,0.0,4,0
+D. Alli,29,England,Everton,Midfielder,0,0,0,0,,,,0,0
+B. Godfrey,27,England,Everton,Defender,15,13,1121,0,,341.0,0.0,2,0
+A. Danjuma,28,Netherlands,Everton,Attacker,14,5,589,1,,140.0,0.0,0,0
+A. Iwobi,29,Nigeria,Everton,Attacker,2,2,140,0,,30.0,0.0,0,0
+Youssef Chermiti,21,Portugal,Everton,Attacker,18,1,192,0,0.0,58.0,0.0,3,0
+D. McNeil,26,England,Everton,Attacker,35,33,2899,3,6.0,1000.0,0.0,2,0
+Beto,27,Portugal,Everton,Attacker,30,9,936,3,0.0,174.0,0.0,2,0
+J. Garner,24,England,Everton,Midfielder,37,34,3006,1,2.0,1113.0,0.0,7,0
+V. Mykolenko,26,Ukraine,Everton,Defender,28,28,2472,2,,881.0,0.0,1,0
+J. Branthwaite,23,England,Everton,Defender,35,35,3117,3,0.0,1370.0,0.0,8,0
+I. Gueye,36,Senegal,Everton,Midfielder,25,24,1895,4,0.0,880.0,0.0,8,0
+J. Tarkowski,33,England,Everton,Defender,38,38,3420,1,1.0,1525.0,0.0,11,0
+N. Patterson,24,Scotland,Everton,Defender,20,9,996,0,2.0,408.0,0.0,4,0
+S. Coleman,37,Republic of Ireland,Everton,Defender,12,7,662,0,0.0,220.0,0.0,0,0
+J. Pickford,31,England,Everton,Goalkeeper,38,38,3420,0,0.0,1430.0,0.0,5,0
+M. Keane,32,England,Everton,Defender,9,4,435,1,,220.0,0.0,2,0
+L. Dobbin,22,England,Everton,Attacker,12,1,222,1,,54.0,0.0,1,0
+A. Onana,24,Belgium,Everton,Midfielder,30,23,2091,2,0.0,1023.0,0.0,5,0
+J. Gbamin,30,Côte d'Ivoire,Everton,Midfielder,0,0,0,0,,,,0,0
+Elijah Xavier Campbell,21,England,Everton,Defender,0,0,0,0,,,0.0,0,0
+D. Gray,29,Jamaica,Everton,Attacker,0,0,0,0,,,,0,0
+S. Mills,22,England,Everton,Midfielder,0,0,0,0,,,,0,0
+T. Cannon,23,Republic of Ireland,Everton,Attacker,1,0,0,0,,,0.0,0,0
+S. Ghoddos,32,Iran,Brentford,Attacker,19,7,729,1,0.0,368.0,0.0,5,0
+E. Brierley,22,England,Brentford,Midfielder,0,0,0,0,,,0.0,0,0
+Reguilón,29,Spain,Brentford,Defender,16,14,1122,0,4.0,412.0,0.0,4,1
+B. Mee,36,England,Brentford,Defender,16,15,1275,2,,605.0,0.0,1,1
+C. Goode,30,England,Brentford,Defender,0,0,0,0,,,0.0,0,0
+Val Adedokun,22,Republic of Ireland,Brentford,Defender,0,0,0,0,,,0.0,0,0
+M. Olakigbe,21,England,Brentford,Attacker,8,0,51,0,,32.0,0.0,0,0
+S. Baptiste,27,Grenada,Brentford,Midfielder,10,2,224,1,1.0,86.0,0.0,1,0
+J. Dasilva,27,England,Brentford,Midfielder,3,0,22,0,,13.0,0.0,0,0
+Benjamin Arthur,20,England,Brentford,Defender,0,0,0,0,,,0.0,0,0
+B. Fredrick,20,Nigeria,Brentford,Defender,0,0,0,0,,,0.0,0,0
+N. Maupay,29,France,Brentford,Attacker,29,13,1315,6,3.0,372.0,0.0,8,0
+M. Flekken,32,Netherlands,Brentford,Goalkeeper,37,37,3286,0,1.0,1446.0,0.0,3,0
+Sergi Canós,28,Spain,Brentford,Midfielder,0,0,0,0,,,,0,0
+K. Lewis-Potter,24,England,Brentford,Attacker,30,15,1440,3,1.0,358.0,0.0,0,0
+B. Mbeumo,26,Cameroon,Brentford,Midfielder,25,22,1960,9,6.0,650.0,3.0,2,0
+Y. Konak,19,Türkiye,Brentford,Midfielder,0,0,0,0,,,0.0,0,0
+K. Schade,24,Germany,Brentford,Midfielder,11,3,330,2,1.0,88.0,0.0,0,0
+Y. Wissa,29,Congo DR,Brentford,Midfielder,34,29,2509,12,3.0,440.0,0.0,7,0
+M. Peart-Harris,23,England,Brentford,Midfielder,3,0,10,0,,7.0,0.0,0,0
+V. Janelt,27,Germany,Brentford,Midfielder,38,37,3072,1,3.0,1306.0,0.0,8,0
+Y. Yarmolyuk,21,Ukraine,Brentford,Midfielder,27,6,674,0,0.0,282.0,0.0,2,0
+N. Collins,24,Republic of Ireland,Brentford,Defender,32,29,2650,1,1.0,1468.0,0.0,3,0
+R. Henry,28,England,Brentford,Defender,5,5,402,0,1.0,156.0,0.0,1,0
+A. Hickey,23,Scotland,Brentford,Defender,9,9,720,0,,252.0,0.0,5,0
+Kim Ji-Soo,21,Korea Republic,Brentford,Defender,0,0,0,0,,,0.0,0,0
+K. Ajer,27,Norway,Brentford,Defender,28,21,1832,2,1.0,722.0,0.0,5,0
+E. Balcombe,26,England,Brentford,Goalkeeper,0,0,0,0,,,0.0,0,0
+E. Pinnock,32,Jamaica,Brentford,Defender,29,28,2520,2,0.0,1398.0,0.0,1,0
+M. Cox,22,England,Brentford,Goalkeeper,0,0,0,0,,,,0,0
+H. Valdimarsson,24,Iceland,Brentford,Goalkeeper,0,0,0,0,,,0.0,0,0
+David Raya,30,Spain,Brentford,Goalkeeper,0,0,0,0,0.0,906.0,0.0,0,0
+Vincent Angelini,22,Scotland,Brentford,Goalkeeper,0,0,0,0,,,0.0,0,0
+I. Toney,29,England,Brentford,Attacker,17,16,1449,4,2.0,388.0,0.0,5,0
+T. Crama,24,France,Brentford,Defender,0,0,0,0,,,,0,0
+T. Strakosha,30,Albania,Brentford,Goalkeeper,2,1,134,0,,66.0,0.0,0,0
+R. Trevitt,22,England,Brentford,Midfielder,0,0,0,0,,,0.0,0,0
+M. Bech,26,Denmark,Brentford,Defender,0,0,0,0,,,,0,0
+M. Damsgaard,25,Denmark,Brentford,Midfielder,23,7,832,0,2.0,394.0,0.0,2,0
+M. Jensen,29,Denmark,Brentford,Midfielder,32,27,2220,3,3.0,972.0,0.0,5,0
+F. Onyeka,27,Nigeria,Brentford,Midfielder,26,11,1155,1,2.0,375.0,0.0,8,0
+M. Roerslev,26,Denmark,Brentford,Defender,34,22,1987,1,2.0,605.0,0.0,1,0
+C. Nørgaard,31,Denmark,Brentford,Midfielder,31,30,2513,2,1.0,1441.0,0.0,8,0
+M. Jørgensen,35,Denmark,Brentford,Defender,14,12,1086,1,0.0,521.0,0.0,4,0
+Billy Gee,20,England,Chelsea,Defender,0,0,0,0,,,,0,0
+Leo Castledine,20,England,Chelsea,Midfielder,0,0,0,0,,,0.0,0,0
+Zak Norton Sturge,21,England,Chelsea,Defender,0,0,0,0,,,0.0,0,0
+K. Dyer,19,England,Chelsea,Midfielder,0,0,0,0,,,0.0,0,0
+I. Samuels-Smith,19,England,Chelsea,Defender,0,0,0,0,,,0.0,0,0
+E. Beach,22,Wales,Chelsea,Goalkeeper,0,0,0,0,,,0.0,0,0
+L. Bergström,23,Finland,Chelsea,Goalkeeper,0,0,0,0,,,0.0,0,0
+Ted Curd,19,England,Chelsea,Goalkeeper,0,0,0,0,,,0.0,0,0
+Alex Matos,21,England,Chelsea,Attacker,1,0,0,0,,,0.0,0,0
+T. Sharman-Lowe,22,England,Chelsea,Goalkeeper,0,0,0,0,,,0.0,0,0
+Ronnie Stutter,20,England,Chelsea,Attacker,0,0,0,0,,,0.0,0,0
+Jimi Weikko Tauriainen,21,Finland,Chelsea,Midfielder,1,0,0,0,,,0.0,0,0
+O. Harrison,18,England,Chelsea,Midfielder,0,0,0,0,,,0.0,0,0
+J. Brooking,23,England,Chelsea,Defender,0,0,0,0,,,0.0,0,0
+M. Sarr,26,France,Chelsea,Defender,0,0,0,0,,,,0,0
+C. Casadei,22,Italy,Chelsea,Midfielder,11,0,67,0,0.0,65.0,0.0,0,0
+C. Gallagher,25,England,Chelsea,Midfielder,37,37,3137,5,7.0,1930.0,0.0,8,0
+C. Hudson-Odoi,25,England,Chelsea,Attacker,0,0,0,0,1.0,647.0,0.0,0,0
+E. Ampadu,25,Wales,Chelsea,Defender,0,0,0,0,,,,0,0
+B. Humphreys,22,England,Chelsea,Defender,0,0,0,0,,,0.0,0,0
+L. Hall,21,England,Chelsea,Defender,0,0,0,0,0.0,469.0,0.0,0,0
+M. Bettinelli,33,England,Chelsea,Goalkeeper,0,0,0,0,,,0.0,1,0
+N. Madueke,23,England,Chelsea,Attacker,23,13,1055,5,2.0,454.0,1.0,2,0
+N. Jackson,24,Senegal,Chelsea,Attacker,35,31,2809,14,5.0,658.0,0.0,10,0
+C. Nkunku,28,France,Chelsea,Attacker,11,2,435,3,0.0,177.0,0.0,0,0
+Tyrique George,19,England,Chelsea,Attacker,0,0,0,0,,,0.0,0,0
+Deivid Washington,20,Brazil,Chelsea,Attacker,2,0,11,0,,1.0,0.0,0,0
+R. Sterling,31,England,Chelsea,Attacker,31,22,1983,8,4.0,658.0,0.0,7,0
+A. Broja,24,Albania,Chelsea,Attacker,13,6,453,1,,93.0,0.0,0,0
+M. Caicedo,24,Ecuador,Chelsea,Midfielder,35,33,2874,1,3.0,2097.0,0.0,11,0
+Andrey Santos,21,Brazil,Chelsea,Midfielder,0,0,0,0,,,0.0,0,0
+R. Lavia,21,Belgium,Chelsea,Midfielder,1,0,32,0,,27.0,0.0,0,0
+C. Palmer,23,England,Chelsea,Midfielder,33,29,2618,22,11.0,1302.0,9.0,7,0
+C. Chukwuemeka,22,England,Chelsea,Midfielder,9,2,222,1,1.0,133.0,0.0,2,0
+E. Fernández,24,Argentina,Chelsea,Midfielder,28,26,2215,3,2.0,1795.0,1.0,7,0
+M. Mudryk,24,Ukraine,Chelsea,Midfielder,31,18,1579,5,2.0,477.0,0.0,5,0
+B. Badiashile,24,France,Chelsea,Defender,18,15,1337,0,1.0,1165.0,0.0,3,0
+A. Gilchrist,22,England,Chelsea,Defender,11,2,199,1,,123.0,0.0,1,0
+L. Ugochukwu,21,France,Chelsea,Midfielder,12,3,294,0,0.0,183.0,0.0,2,0
+Joshua Kofi Acheampong,19,England,Chelsea,Defender,1,0,5,0,,1.0,0.0,0,0
+T. Chalobah,26,England,Chelsea,Defender,13,10,950,1,0.0,759.0,0.0,1,0
+M. Gusto,22,France,Chelsea,Defender,27,19,1754,0,6.0,1218.0,0.0,7,1
+Marc Cucurella,27,Spain,Chelsea,Defender,21,20,1785,0,2.0,1057.0,0.0,10,0
+L. Colwill,22,England,Chelsea,Defender,23,20,1799,1,1.0,1053.0,0.0,2,0
+W. Fofana,25,France,Chelsea,Defender,0,0,0,0,,,,0,0
+B. Chilwell,29,England,Chelsea,Defender,13,9,758,0,1.0,405.0,0.0,5,0
+R. James,26,England,Chelsea,Defender,10,5,420,0,2.0,267.0,0.0,1,1
+A. Disasi,27,France,Chelsea,Defender,31,29,2580,2,,2198.0,0.0,6,0
+J. Tomkins,35,England,Crystal Palace,Defender,4,0,5,0,0.0,21.0,0.0,0,0
+N. Ferguson,24,England,Crystal Palace,Defender,0,0,0,0,,,,0,0
+Roshaun Mathurin,20,England,Crystal Palace,Attacker,0,0,0,0,,,0.0,0,0
+S. Grehan,21,Republic of Ireland,Crystal Palace,Defender,0,0,0,0,,,,0,0
+J. Raymond,22,England,Crystal Palace,Midfielder,0,0,0,0,,,0.0,0,0
+Guaita,38,Spain,Crystal Palace,Goalkeeper,0,0,0,0,,,,0,0
+J. Ward,36,England,Crystal Palace,Defender,26,23,1981,0,1.0,802.0,0.0,4,0
+O. Goodman,22,England,Crystal Palace,Goalkeeper,0,0,0,0,,,,0,0
+Ademola Oladipupo Ola-Adebomi,22,England,Crystal Palace,Attacker,0,0,0,0,,,0.0,0,0
+J. Riedewald,29,Netherlands,Crystal Palace,Midfielder,9,2,229,0,0.0,108.0,0.0,0,0
+J. Wells-Morrison,21,England,Crystal Palace,Midfielder,0,0,0,0,,,,0,0
+J. Gordon,22,England,Crystal Palace,Attacker,0,0,0,0,,,0.0,0,0
+J. Whitworth,21,England,Crystal Palace,Goalkeeper,0,0,0,0,,,0.0,0,0
+S. Banks,24,Scotland,Crystal Palace,Attacker,0,0,0,0,,,,0,0
+M. Olise,24,France,Crystal Palace,Midfielder,19,14,1276,10,6.0,606.0,1.0,0,0
+S. Johnstone,32,England,Crystal Palace,Goalkeeper,20,20,1797,0,,531.0,0.0,1,0
+F. Umeh,20,Republic of Ireland,Crystal Palace,Attacker,0,0,0,0,,,0.0,0,0
+J. Mateta,28,France,Crystal Palace,Attacker,35,25,2284,16,5.0,413.0,2.0,3,0
+Matheus França,21,Brazil,Crystal Palace,Attacker,10,1,224,0,1.0,65.0,0.0,1,0
+O. Édouard,27,France,Crystal Palace,Attacker,30,17,1554,7,0.0,337.0,0.0,4,0
+M. Ebiowei,22,England,Crystal Palace,Attacker,0,0,0,0,,,0.0,0,0
+D. Ozoh,20,England,Crystal Palace,Midfielder,9,0,147,0,,51.0,0.0,1,0
+J. Rak-Sakyi,23,England,Crystal Palace,Midfielder,6,0,130,0,,47.0,0.0,0,0
+K. Rodney,21,England,Crystal Palace,Midfielder,0,0,0,0,,,0.0,0,0
+N. Ahamada,23,France,Crystal Palace,Midfielder,20,0,333,0,,179.0,0.0,3,0
+J. Lerma,31,Colombia,Crystal Palace,Midfielder,28,27,2404,1,1.0,1225.0,0.0,8,0
+W. Hughes,30,England,Crystal Palace,Midfielder,30,23,1898,0,1.0,845.0,0.0,6,0
+E. Eze,27,England,Crystal Palace,Midfielder,27,24,2063,11,4.0,790.0,1.0,3,0
+J. Devenny,22,Scotland,Crystal Palace,Midfielder,0,0,0,0,,,,0,0
+C. Doucouré,25,Mali,Crystal Palace,Midfielder,11,11,922,0,,421.0,0.0,2,0
+A. Wharton,21,England,Crystal Palace,Midfielder,16,15,1305,0,3.0,563.0,0.0,2,0
+T. Adaramola,22,Republic of Ireland,Crystal Palace,Defender,0,0,0,0,,,0.0,0,0
+N. Clyne,34,England,Crystal Palace,Defender,19,14,1337,0,0.0,533.0,0.0,0,0
+D. Muñoz,29,Colombia,Crystal Palace,Defender,16,16,1440,0,4.0,566.0,0.0,4,0
+M. Guéhi,25,England,Crystal Palace,Defender,25,23,2023,0,1.0,1296.0,0.0,2,0
+C. Richards,25,USA,Crystal Palace,Defender,26,23,2091,1,1.0,924.0,0.0,3,0
+Daniel Edward Peter Imray,22,England,Crystal Palace,Defender,0,0,0,0,,,,0,0
+T. Mitchell,26,England,Crystal Palace,Defender,37,37,3209,2,3.0,1206.0,0.0,6,0
+R. Matthews,31,England,Crystal Palace,Goalkeeper,1,0,3,0,,5.0,0.0,0,0
+D. Henderson,28,England,Crystal Palace,Goalkeeper,18,18,1620,0,0.0,430.0,0.0,2,0
+R. Holding,30,England,Crystal Palace,Defender,0,0,0,0,,,0.0,0,0
+J. Andersen,29,Denmark,Crystal Palace,Defender,38,38,3418,2,3.0,2151.0,0.0,7,0
+J. O&apos;Brien,24,Republic of Ireland,Crystal Palace,Defender,0,0,0,0,,,,0,0
+K. Balmer,25,Northern Ireland,Crystal Palace,Defender,0,0,0,0,,,,0,0
+K. Phillips,23,Republic of Ireland,Crystal Palace,Midfielder,0,0,0,0,,,,0,0
+J. Schlupp,33,Ghana,Crystal Palace,Midfielder,29,17,1356,2,2.0,323.0,0.0,1,0
+W. Zaha,33,Côte d'Ivoire,Crystal Palace,Attacker,0,0,0,0,,,,0,0
+J. Ayew,34,Ghana,Crystal Palace,Attacker,35,30,2551,4,7.0,811.0,0.0,8,0
+L. Plange,23,England,Crystal Palace,Attacker,0,0,0,0,,,0.0,0,0
+K. Šekularac,22,Switzerland,Fulham,Midfielder,0,0,0,0,,,0.0,0,0
+Carlos Vinícius,30,Brazil,Fulham,Attacker,13,2,306,2,,61.0,0.0,2,0
+G. Wickens,24,England,Fulham,Goalkeeper,0,0,0,0,,,,0,0
+M. Dibley-Dias,22,England,Fulham,Midfielder,0,0,0,0,,,0.0,0,0
+Devan Austin Tanton Pedraza,21,Colombia,Fulham,Defender,0,0,0,0,,,0.0,0,0
+L. De Fougerolles,20,Canada,Fulham,Defender,0,0,0,0,,,0.0,0,0
+T. Kongolo,31,Netherlands,Fulham,Defender,0,0,0,0,,,,0,0
+F. Ballo-Touré,28,Senegal,Fulham,Defender,6,0,66,0,0.0,55.0,0.0,1,0
+João Palhinha,30,Portugal,Fulham,Midfielder,33,31,2711,4,1.0,1321.0,0.0,13,0
+R. Jiménez,34,Mexico,Fulham,Attacker,24,18,1403,7,0.0,372.0,0.0,3,1
+Rodrigo Muniz,24,Brazil,Fulham,Attacker,26,18,1596,9,1.0,219.0,0.0,1,0
+Adama Traoré,29,Spain,Fulham,Attacker,17,1,362,2,3.0,111.0,0.0,2,0
+A. Iwobi,29,Nigeria,Fulham,Attacker,30,25,2202,5,,30.0,0.0,2,0
+H. Reed,30,England,Fulham,Midfielder,27,15,1323,0,2.0,722.0,0.0,6,0
+T. Cairney,34,Scotland,Fulham,Midfielder,34,14,1475,1,4.0,1240.0,0.0,3,0
+Joshua King,18,England,Fulham,Midfielder,0,0,0,0,,,0.0,0,0
+S. Lukić,29,Serbia,Fulham,Midfielder,24,13,1117,1,,489.0,0.0,3,0
+Andreas Pereira,29,Brazil,Fulham,Midfielder,37,34,2638,3,7.0,1062.0,0.0,6,0
+L. Harris,20,Wales,Fulham,Midfielder,1,0,74,0,,14.0,0.0,0,0
+T. Castagne,30,Belgium,Fulham,Defender,34,29,2632,1,3.0,1348.0,0.0,3,0
+H. Wilson,28,Wales,Fulham,Midfielder,35,16,1613,4,6.0,582.0,0.0,6,0
+A. Robinson,28,USA,Fulham,Defender,37,37,3269,0,6.0,1627.0,0.0,6,0
+I. Diop,28,France,Fulham,Defender,18,16,1426,0,,1074.0,0.0,3,0
+K. Tete,30,Netherlands,Fulham,Defender,14,10,868,1,0.0,422.0,0.0,2,0
+C. Bassey,26,Nigeria,Fulham,Defender,29,25,2300,1,0.0,1667.0,0.0,5,0
+B. Leno,33,Germany,Fulham,Goalkeeper,38,38,3420,0,0.0,1407.0,0.0,3,0
+S. Benda,27,Germany,Fulham,Goalkeeper,0,0,0,0,,,,0,0
+A. Broja,24,Albania,Fulham,Attacker,8,0,81,0,,93.0,0.0,0,0
+T. Adarabioyo,28,England,Fulham,Defender,20,18,1616,2,,1208.0,0.0,2,0
+M. Rodák,29,Slovakia,Fulham,Goalkeeper,0,0,0,0,,,0.0,1,0
+A. Mitrović,31,Serbia,Fulham,Attacker,1,0,32,0,,8.0,0.0,0,0
+T. Ream,38,USA,Fulham,Defender,18,17,1504,1,0.0,1057.0,0.0,3,0
+B. De Cordova-Reid,32,Jamaica,Fulham,Attacker,33,17,1424,6,2.0,440.0,0.0,4,0
+J. Stansfield,23,England,Fulham,Attacker,0,0,0,0,,,0.0,0,0
+Willian,37,Brazil,Fulham,Attacker,31,24,2061,4,2.0,1058.0,2.0,1,0
+K. Mbabu,30,Switzerland,Fulham,Defender,0,0,0,0,,,0.0,0,0
+T. Francois,25,Australia,Fulham,Midfielder,0,0,0,0,,,0.0,0,0
+M. Ndiweni,21,England,Newcastle,Attacker,1,0,0,0,,2.0,0.0,0,0
+J. Hendrick,33,Republic of Ireland,Newcastle,Midfielder,0,0,0,0,,,,0,0
+Javier Manquillo,31,Spain,Newcastle,Defender,0,0,0,0,,,0.0,0,0
+J. Lewis,27,Northern Ireland,Newcastle,Defender,0,0,0,0,,,,0,0
+K. Watts,26,England,Newcastle,Defender,0,0,0,0,,,,0,0
+P. Dummett,34,Wales,Newcastle,Defender,5,0,15,0,0.0,22.0,0.0,0,0
+Ben Parkinson,20,England,Newcastle,Attacker,1,0,24,0,,3.0,0.0,0,0
+Amadou Diallo,22,England,Newcastle,Attacker,1,0,0,0,,1.0,0.0,0,0
+C. Wilson,33,England,Newcastle,Attacker,20,9,983,9,1.0,158.0,2.0,3,0
+E. Anderson,23,Scotland,Newcastle,Midfielder,21,10,1022,0,2.0,416.0,0.0,3,0
+K. Darlow,35,England,Newcastle,Goalkeeper,0,0,0,0,,,,0,0
+A. Gordon,24,England,Newcastle,Attacker,35,34,2906,11,10.0,922.0,1.0,11,0
+A. Isak,26,Sweden,Newcastle,Attacker,30,27,2267,21,2.0,474.0,5.0,1,0
+J. White,23,England,Newcastle,Midfielder,4,0,9,0,,12.0,0.0,1,0
+J. Willock,26,England,Newcastle,Midfielder,9,5,419,1,,153.0,0.0,0,0
+J. Murphy,30,England,Newcastle,Midfielder,21,14,1193,3,7.0,421.0,0.0,1,0
+S. Longstaff,28,England,Newcastle,Midfielder,35,30,2748,6,2.0,1209.0,0.0,7,0
+Joelinton,29,Brazil,Newcastle,Midfielder,20,15,1281,2,1.0,613.0,0.0,6,0
+H. Barnes,28,England,Newcastle,Midfielder,21,7,794,5,3.0,254.0,0.0,2,0
+L. Miley,19,England,Newcastle,Midfielder,17,14,1208,1,3.0,524.0,0.0,1,0
+S. Tonali,25,Italy,Newcastle,Midfielder,8,5,439,1,,266.0,0.0,2,0
+Bruno Guimarães,28,Brazil,Newcastle,Midfielder,37,37,3269,7,8.0,2260.0,0.0,9,0
+H. Ashby,24,Scotland,Newcastle,Defender,0,0,0,0,,,,0,0
+F. Schär,34,Switzerland,Newcastle,Defender,36,35,3057,4,1.0,2099.0,0.0,5,0
+D. Burn,33,England,Newcastle,Defender,33,32,2733,2,2.0,1496.0,0.0,4,0
+L. Hall,21,England,Newcastle,Defender,18,8,777,1,0.0,469.0,0.0,2,0
+S. Botman,25,Netherlands,Newcastle,Defender,17,15,1378,2,2.0,1012.0,0.0,2,0
+A. Murphy,21,Republic of Ireland,Newcastle,Defender,2,0,11,0,,17.0,0.0,0,0
+J. Lascelles,32,England,Newcastle,Defender,16,13,1081,1,,769.0,0.0,4,0
+E. Krafth,31,Sweden,Newcastle,Defender,17,8,905,0,0.0,510.0,0.0,2,0
+K. Trippier,35,England,Newcastle,Defender,28,26,2239,1,10.0,1711.0,0.0,5,0
+M. Targett,30,England,Newcastle,Defender,3,1,77,0,,38.0,0.0,1,0
+T. Livramento,23,England,Newcastle,Defender,26,12,1302,1,,675.0,0.0,1,0
+N. Pope,33,England,Newcastle,Goalkeeper,15,15,1346,0,0.0,312.0,0.0,1,0
+M. Gillespie,33,England,Newcastle,Goalkeeper,0,0,0,0,,,0.0,0,0
+A. Saint-Maximin,28,France,Newcastle,Attacker,0,0,0,0,,,,0,0
+M. Almirón,31,Paraguay,Newcastle,Midfielder,33,23,1947,3,1.0,768.0,0.0,2,0
+L. Karius,32,Germany,Newcastle,Goalkeeper,1,1,90,0,,31.0,0.0,0,0
+R. Fraser,31,Scotland,Newcastle,Midfielder,0,0,0,0,,,,0,0
+M. Ritchie,36,Scotland,Newcastle,Midfielder,13,0,116,1,,86.0,0.0,1,0
+T. Hernes,20,England,Newcastle,Midfielder,0,0,0,0,,,0.0,0,0
+M. Dúbravka,36,Slovakia,Newcastle,Goalkeeper,23,22,1984,0,,508.0,0.0,1,0
+Leigh Robert Kavanagh,22,Republic of Ireland,Brighton,Defender,0,0,0,0,,,0.0,0,0
+A. Lallana,37,England,Brighton,Midfielder,25,13,850,0,1.0,499.0,0.0,2,0
+Ansu Fati,23,Spain,Brighton,Attacker,19,3,511,2,0.0,204.0,0.0,2,0
+R. Khadra,24,Germany,Brighton,Midfielder,0,0,0,0,,,,0,0
+C. Peupion,23,Australia,Brighton,Attacker,0,0,0,0,,,0.0,0,0
+J. Weir,23,England,Brighton,Midfielder,0,0,0,0,,,,0,0
+J. Duffus,21,England,Brighton,Attacker,0,0,0,0,,,0.0,0,0
+Samy Olivier Chouchane,22,Tunisia,Brighton,Midfielder,0,0,0,0,,,0.0,0,0
+N. Atom,20,Germany,Brighton,Defender,0,0,0,0,,,0.0,0,0
+E. Turns,23,Wales,Brighton,Defender,0,0,0,0,,,,0,0
+Luca Barrington,21,England,Brighton,Attacker,0,0,0,0,,,0.0,0,0
+J. Moder,26,Poland,Brighton,Midfielder,17,6,612,0,0.0,289.0,0.0,2,0
+V. Barco,21,Argentina,Brighton,Defender,6,3,305,0,0.0,187.0,0.0,1,0
+B. Gilmour,24,Scotland,Brighton,Midfielder,30,24,2125,0,1.0,2064.0,0.0,8,1
+D. Undav,29,Germany,Brighton,Attacker,0,0,0,0,,,,0,0
+P. Groß,34,Germany,Brighton,Midfielder,36,34,3114,4,10.0,2927.0,1.0,7,0
+M. Dahoud,29,Germany,Brighton,Midfielder,9,6,454,0,1.0,325.0,0.0,1,1
+D. Welbeck,35,England,Brighton,Attacker,29,21,1703,5,1.0,506.0,0.0,4,0
+E. Ferguson,21,Republic of Ireland,Brighton,Attacker,27,15,1365,6,,300.0,0.0,1,0
+J. Enciso,21,Paraguay,Brighton,Midfielder,12,5,475,0,2.0,167.0,0.0,2,0
+C. Baleba,21,Cameroon,Brighton,Midfielder,27,15,1323,0,0.0,772.0,0.0,7,0
+S. March,31,England,Brighton,Midfielder,7,7,559,3,1.0,221.0,0.0,1,0
+A. Moran,22,Republic of Ireland,Brighton,Midfielder,0,0,0,0,,,,0,0
+F. Buonanotte,21,Argentina,Brighton,Midfielder,27,17,1367,3,1.0,469.0,0.0,7,0
+J. Milner,39,England,Brighton,Midfielder,15,11,779,0,2.0,500.0,0.0,3,0
+J. Hinshelwood,20,England,Brighton,Midfielder,12,8,871,3,,434.0,0.0,1,0
+Y. Ayari,22,Sweden,Brighton,Midfielder,0,0,0,0,,,,0,0
+J. Sarmiento,23,Ecuador,Brighton,Midfielder,0,0,0,0,,,,0,0
+K. Mitoma,28,Japan,Brighton,Midfielder,19,15,1485,3,4.0,597.0,0.0,4,0
+P. Estupiñán,27,Ecuador,Brighton,Defender,19,15,1246,2,3.0,820.0,0.0,4,0
+J. Veltman,33,Netherlands,Brighton,Defender,27,17,1582,1,1.0,810.0,0.0,4,0
+J. van Hecke,25,Netherlands,Brighton,Defender,28,26,2367,0,,2399.0,0.0,4,0
+L. Dunk,34,England,Brighton,Defender,33,33,2873,3,1.0,3213.0,0.0,7,1
+T. Lamptey,25,Ghana,Brighton,Defender,19,10,913,0,3.0,371.0,0.0,3,0
+A. Webster,30,England,Brighton,Defender,15,13,1144,0,0.0,1086.0,0.0,2,0
+T. McGill,25,Canada,Brighton,Goalkeeper,0,0,0,0,,,,0,0
+B. Verbruggen,23,Netherlands,Brighton,Goalkeeper,21,21,1890,0,,743.0,0.0,3,0
+J. Steele,35,England,Brighton,Goalkeeper,17,17,1530,0,0.0,602.0,0.0,0,0
+Igor,27,Brazil,Brighton,Defender,24,17,1635,0,0.0,1417.0,0.0,4,0
+A. Connolly,25,Republic of Ireland,Brighton,Attacker,0,0,0,0,,,,0,0
+João Pedro,24,Brazil,Brighton,Attacker,31,19,2041,9,3.0,774.0,4.0,2,0
+M. Caicedo,24,Ecuador,Brighton,Midfielder,0,0,0,0,3.0,2097.0,0.0,0,0
+Robert Sánchez,28,Spain,Brighton,Goalkeeper,0,0,0,0,,520.0,0.0,0,0
+Benjamin Harvey Jackson,22,England,Brighton,Defender,0,0,0,0,,,0.0,0,0
+I. Samuels,22,England,Brighton,Defender,0,0,0,0,,,0.0,0,0
+A. Zeqiri,26,Switzerland,Brighton,Attacker,0,0,0,0,,,,0,0
+K. Kozłowski,22,Poland,Brighton,Midfielder,0,0,0,0,,,,0,0
+M. Karbownik,24,Poland,Brighton,Defender,0,0,0,0,,,,0,0
+Benicio Baker-Boaitey,21,England,Brighton,Midfielder,5,0,35,0,,19.0,0.0,1,0
+S. Alzate,27,Colombia,Brighton,Midfielder,0,0,0,0,,,0.0,0,0
+M. Leonard,24,Scotland,Brighton,Midfielder,0,0,0,0,,,,0,0
+Mark O’Mahony,20,Republic of Ireland,Brighton,Attacker,3,1,62,0,,16.0,0.0,1,0
+O. Offiah,23,England,Brighton,Defender,0,0,0,0,,67.0,0.0,0,0
+S. Adingra,23,Côte d'Ivoire,Brighton,Attacker,31,25,2231,6,1.0,747.0,0.0,3,0
+J. Lowe,31,Jamaica,Bournemouth,Attacker,0,0,0,0,,,,0,0
+R. Fredericks,32,England,Bournemouth,Defender,0,0,0,0,,,,0,0
+D. Randolph,37,Republic of Ireland,Bournemouth,Goalkeeper,0,0,0,0,,,0.0,0,0
+C. Plain,23,England,Bournemouth,Goalkeeper,0,0,0,0,,,,0,0
+Michael Dacosta,20,Spain,Bournemouth,Attacker,0,0,0,0,,,0.0,0,0
+M. Aarons,25,England,Bournemouth,Defender,20,13,1233,0,1.0,451.0,0.0,1,0
+G. Kilkenny,25,Republic of Ireland,Bournemouth,Midfielder,0,0,0,0,,,0.0,0,0
+E. Pollock,23,England,Bournemouth,Attacker,0,0,0,0,,,,0,0
+B. Greenwood,23,Republic of Ireland,Bournemouth,Defender,0,0,0,0,,,0.0,0,0
+D. Adu-Adjei,20,England,Bournemouth,Attacker,0,0,0,0,,,,0,0
+D. Sadi,22,England,Bournemouth,Attacker,1,0,0,0,,1.0,0.0,0,0
+M. Kinsey-Wellings,20,England,Bournemouth,Defender,0,0,0,0,,,0.0,0,0
+L. Kelly,27,England,Bournemouth,Defender,23,17,1558,0,1.0,772.0,0.0,2,0
+I. Radu,28,Romania,Bournemouth,Goalkeeper,2,2,180,0,,58.0,0.0,0,0
+J. Rothwell,30,England,Bournemouth,Midfielder,11,3,380,0,,202.0,0.0,0,0
+J. Kluivert,26,Netherlands,Bournemouth,Attacker,32,26,1936,7,1.0,381.0,0.0,5,0
+D. Ouattara,23,Burkina Faso,Bournemouth,Attacker,30,12,1219,1,2.0,448.0,0.0,3,0
+A. Semenyo,25,Ghana,Bournemouth,Attacker,33,25,2111,8,2.0,587.0,0.0,6,0
+L. Sinisterra,26,Colombia,Bournemouth,Attacker,20,7,692,2,2.0,281.0,0.0,0,0
+E. Ünal,28,Türkiye,Bournemouth,Attacker,16,2,318,2,2.0,72.0,0.0,1,0
+D. Brooks,28,Wales,Bournemouth,Midfielder,13,2,272,1,1.0,112.0,0.0,1,0
+M. Tavernier,26,England,Bournemouth,Midfielder,30,25,2132,3,4.0,760.0,0.0,3,0
+L. Cook,28,England,Bournemouth,Midfielder,33,32,2791,0,3.0,1343.0,0.0,5,1
+R. Christie,30,Scotland,Bournemouth,Midfielder,37,35,2922,0,5.0,1220.0,0.0,6,0
+A. Scott,22,England,Bournemouth,Midfielder,23,11,1012,1,1.0,432.0,0.0,3,0
+H. Traorè,25,Côte d'Ivoire,Bournemouth,Midfielder,3,0,44,0,,24.0,0.0,0,0
+R. Faivre,27,France,Bournemouth,Midfielder,5,0,36,0,,23.0,0.0,1,0
+T. Adams,26,USA,Bournemouth,Midfielder,3,1,118,0,,69.0,0.0,0,0
+I. Zabarnyi,23,Ukraine,Bournemouth,Defender,37,37,3330,1,0.0,1802.0,0.0,5,0
+M. Senesi,28,Argentina,Bournemouth,Defender,31,26,2247,4,5.0,1259.0,0.0,13,0
+P. Billing,29,Denmark,Bournemouth,Midfielder,29,13,1392,2,2.0,501.0,0.0,3,1
+C. McKenna,19,Scotland,Bournemouth,Goalkeeper,0,0,0,0,,,0.0,0,0
+C. Mepham,28,Wales,Bournemouth,Defender,10,6,614,0,1.0,354.0,0.0,2,0
+A. Smith,34,England,Bournemouth,Defender,28,25,2158,0,2.0,768.0,0.0,6,0
+Neto,36,Brazil,Bournemouth,Goalkeeper,32,32,2880,0,0.0,902.0,0.0,5,0
+J. Anthony,26,England,Bournemouth,Attacker,3,2,153,0,,43.0,0.0,1,0
+D. Solanke,28,England,Bournemouth,Attacker,38,37,3332,19,3.0,533.0,2.0,3,0
+M. Kerkez,22,Hungary,Bournemouth,Defender,28,22,1974,0,1.0,627.0,0.0,4,1
+S. Dembélé,29,Scotland,Bournemouth,Midfielder,0,0,0,0,,,,0,0
+K. Moore,33,Wales,Bournemouth,Attacker,8,0,100,1,,40.0,0.0,0,0
+M. Travers,26,Republic of Ireland,Bournemouth,Goalkeeper,0,0,0,0,,105.0,0.0,0,0
+J. Hill,23,England,Bournemouth,Defender,1,0,15,0,,34.0,0.0,0,0
+E. Marcondes,30,Denmark,Bournemouth,Midfielder,0,0,0,0,,,0.0,0,0
+M. Lewis,23,England,Burnley,Midfielder,0,0,0,0,,,,0,0
+J. Cork,36,England,Burnley,Midfielder,4,0,23,0,0.0,32.0,0.0,0,0
+D. Franchi,23,Italy,Burnley,Goalkeeper,0,0,0,0,,,,0,0
+D. Fofana,23,Côte d'Ivoire,Burnley,Attacker,15,10,880,4,1.0,168.0,0.0,1,0
+D. Churlinov,25,North Macedonia,Burnley,Midfielder,0,0,0,0,,,,0,0
+D. Sassi,22,England,Burnley,Defender,0,0,0,0,,,,0,0
+J. Bruun Larsen,27,Denmark,Burnley,Attacker,32,16,1251,6,0.0,457.0,1.0,1,0
+S. Bastien,29,Congo DR,Burnley,Midfielder,0,0,0,0,,,,0,0
+A. Zaroury,25,Morocco,Burnley,Attacker,6,1,149,0,,59.0,0.0,0,1
+C. Egan-Riley,22,England,Burnley,Defender,0,0,0,0,,,0.0,0,0
+A. Al Dakhil,23,Belgium,Burnley,Defender,13,12,1056,1,,598.0,0.0,1,0
+L. Assignon,25,France,Burnley,Defender,15,15,1240,1,2.0,352.0,0.0,4,0
+L. Koleosho,21,Italy,Burnley,Attacker,15,13,983,1,1.0,246.0,0.0,0,0
+B. Manuel,28,Belgium,Burnley,Attacker,8,1,109,0,,47.0,0.0,0,0
+J. Rodríguez,36,England,Burnley,Attacker,21,7,811,2,1.0,215.0,1.0,0,0
+W. Odobert,21,France,Burnley,Attacker,29,25,2108,3,2.0,545.0,0.0,3,0
+L. Foster,25,South Africa,Burnley,Attacker,24,22,1907,5,3.0,452.0,0.0,0,1
+Z. Amdouni,25,Switzerland,Burnley,Attacker,34,27,1972,5,1.0,488.0,1.0,2,0
+M. Trésor,26,Belgium,Burnley,Attacker,16,3,412,0,,146.0,0.0,0,0
+M. Obafemi,25,Republic of Ireland,Burnley,Attacker,2,0,19,0,,5.0,0.0,0,0
+D. Costelloe,23,Republic of Ireland,Burnley,Attacker,0,0,0,0,,,,0,0
+S. Berge,27,Norway,Burnley,Midfielder,37,34,3008,1,2.0,1547.0,0.0,9,0
+J. Cullen,29,Republic of Ireland,Burnley,Midfielder,25,23,2060,2,3.0,1341.0,0.0,9,0
+J. Guðmunds­son,35,Iceland,Burnley,Midfielder,26,12,1189,1,3.0,465.0,0.0,2,0
+A. Ramsey,22,England,Burnley,Midfielder,14,5,525,0,,146.0,0.0,1,0
+J. Brownhill,30,England,Burnley,Midfielder,33,23,2248,4,2.0,1028.0,0.0,4,1
+S. Twine,26,England,Burnley,Midfielder,0,0,0,0,,,,0,0
+N. Redmond,31,England,Burnley,Midfielder,12,0,130,0,,68.0,0.0,1,0
+H. Massengo,24,France,Burnley,Midfielder,3,0,13,0,,9.0,0.0,0,0
+Vitinho,26,Brazil,Burnley,Defender,32,26,2318,0,2.0,756.0,0.0,1,0
+L. McNally,26,Republic of Ireland,Burnley,Defender,0,0,0,0,,,,0,0
+C. Roberts,30,Wales,Burnley,Defender,14,8,819,0,1.0,409.0,0.0,4,0
+M. Estève,23,France,Burnley,Defender,16,15,1311,0,0.0,810.0,0.0,6,0
+J. Beyer,25,Germany,Burnley,Defender,15,15,1239,0,1.0,855.0,0.0,6,0
+H. Delcroix,26,Belgium,Burnley,Defender,12,5,583,0,,318.0,0.0,2,0
+H. Ekdal,27,Sweden,Burnley,Defender,8,5,439,0,,217.0,0.0,2,0
+O. Dodgson,22,England,Burnley,Defender,0,0,0,0,,,,0,0
+D. O&apos;Shea,26,Republic of Ireland,Burnley,Defender,33,32,2894,3,4.0,1732.0,0.0,5,1
+J. Trafford,23,England,Burnley,Goalkeeper,28,28,2520,0,,1368.0,0.0,2,0
+L. Vigouroux,32,Chile,Burnley,Goalkeeper,0,0,0,0,,,0.0,0,0
+C. Taylor,32,England,Burnley,Defender,28,25,2330,1,1.0,1042.0,0.0,8,0
+A. Murić,27,Kosovo,Burnley,Goalkeeper,10,10,900,0,0.0,526.0,0.0,0,0
+B. Thomas,24,England,Burnley,Defender,0,0,0,0,,,,0,0
+B. Peacock-Farrell,29,Northern Ireland,Burnley,Goalkeeper,0,0,0,0,,,,0,0
+L. Freeman,32,England,Luton,Midfielder,0,0,0,0,,,,0,0
+Dominic Martins,19,Portugal,Luton,Midfielder,0,0,0,0,,,0.0,0,0
+D. Potts,31,England,Luton,Defender,0,0,0,0,,,0.0,0,0
+A. Piesold,20,England,Luton,Midfielder,0,0,0,0,,,0.0,0,0
+J. Luker,20,England,Luton,Midfielder,0,0,0,0,,,0.0,0,0
+J. McAtee,26,England,Luton,Attacker,0,0,0,0,,,0.0,0,0
+Carlos Gomes,27,Spain,Luton,Attacker,0,0,0,0,,,,0,0
+C. Woodrow,31,England,Luton,Attacker,24,2,408,1,1.0,139.0,0.0,2,0
+L. Watson,24,Republic of Ireland,Luton,Midfielder,0,0,0,0,,,,0,0
+M. Macey,31,England,Luton,Goalkeeper,0,0,0,0,,,,0,0
+J. Taylor,23,Wales,Luton,Attacker,0,0,0,0,,,,0,0
+A. Pepple,23,Canada,Luton,Attacker,0,0,0,0,,,,0,0
+P. Mpanzu,31,Congo DR,Luton,Midfielder,27,11,1093,0,0.0,342.0,0.0,1,0
+G. Rea,31,Republic of Ireland,Luton,Defender,0,0,0,0,,,,0,0
+C. Pettit,23,England,Luton,Midfielder,0,0,0,0,,,,0,0
+D. Pereira,26,England,Luton,Midfielder,0,0,0,0,,,,0,0
+A. Francis-Clarke,21,England,Luton,Defender,0,0,0,0,,,0.0,0,0
+Taylan Harris,20,England,Luton,Attacker,0,0,0,0,,,0.0,0,0
+J. Brown,27,Scotland,Luton,Attacker,19,12,1019,2,,229.0,0.0,4,0
+E. Adebayo,27,England,Luton,Attacker,27,16,1418,10,0.0,197.0,0.0,1,0
+A. Doughty,26,England,Luton,Midfielder,37,34,2938,2,8.0,1090.0,0.0,5,0
+Z. Nelson,20,England,Luton,Midfielder,2,0,5,0,,4.0,0.0,0,0
+J. Clark,32,England,Luton,Midfielder,23,14,1305,1,1.0,483.0,0.0,4,0
+T. Chong,26,Netherlands,Luton,Midfielder,33,20,1985,4,0.0,500.0,0.0,4,0
+M. Nakamba,31,Zimbabwe,Luton,Midfielder,13,13,1133,0,,415.0,0.0,5,0
+C. Chigozie,18,England,Luton,Defender,0,0,0,0,,,0.0,0,0
+J. Johnson,19,England,Luton,Defender,2,0,75,0,0.0,34.0,0.0,1,0
+T. Mengi,23,England,Luton,Defender,30,28,2470,1,0.0,928.0,0.0,3,0
+D. Hashioka,26,Japan,Luton,Defender,10,6,594,0,0.0,256.0,0.0,0,0
+T. Lockyer,31,Wales,Luton,Defender,14,14,1173,1,1.0,418.0,0.0,4,0
+T. Krul,37,Netherlands,Luton,Goalkeeper,0,0,0,0,,,0.0,0,0
+J. Shea,34,England,Luton,Goalkeeper,1,0,14,0,0.0,8.0,0.0,0,0
+F. Onyedinma,29,Nigeria,Luton,Midfielder,0,0,0,0,,85.0,0.0,0,0
+A. Muskwe,27,Zimbabwe,Luton,Attacker,0,0,0,0,,,,0,0
+G. Osho,27,England,Luton,Defender,21,21,1848,2,0.0,702.0,0.0,3,0
+I. Kaboré,24,Burkina Faso,Luton,Defender,24,21,1734,0,2.0,541.0,0.0,7,0
+R. Barkley,32,England,Luton,Midfielder,32,30,2622,5,4.0,1409.0,0.0,6,0
+A. Sambi Lokonga,26,Belgium,Luton,Midfielder,17,16,1310,1,3.0,740.0,0.0,4,0
+A. Campbell,27,Scotland,Luton,Midfielder,0,0,0,0,,,0.0,0,0
+A. Townsend,34,England,Luton,Attacker,27,14,1209,1,3.0,349.0,0.0,1,0
+C. Ogbene,28,Republic of Ireland,Luton,Attacker,30,20,1992,4,1.0,629.0,0.0,1,0
+R. Giles,25,England,Luton,Defender,11,5,500,0,,128.0,0.0,0,0
+L. Berry,33,England,Luton,Midfielder,17,2,310,2,1.0,89.0,0.0,1,0
+R. Burke,29,England,Luton,Defender,22,20,1666,0,4.0,685.0,0.0,5,0
+A. Bell,31,Jamaica,Luton,Defender,21,21,1722,0,,789.0,0.0,0,0
+C. Morris,30,England,Luton,Attacker,38,32,2866,11,4.0,720.0,5.0,4,0
+M. Andersen,28,Denmark,Luton,Defender,8,4,398,1,,115.0,0.0,1,0
+T. Kaminski,33,Belgium,Luton,Goalkeeper,38,38,3406,0,0.0,1312.0,0.0,3,0
+C. Basham,36,England,Sheffield Utd,Defender,8,3,319,0,,122.0,0.0,1,0
+D. Sasnauskas,18,Lithuania,Sheffield Utd,Defender,0,0,0,0,,,0.0,0,0
+O. McBurnie,29,Scotland,Sheffield Utd,Attacker,21,15,1283,6,3.0,400.0,2.0,5,0
+Y. Larouci,24,France,Sheffield Utd,Defender,11,6,532,0,,165.0,0.0,1,0
+O. Norwood,34,Northern Ireland,Sheffield Utd,Midfielder,27,16,1433,1,,855.0,1.0,8,0
+A. Hackford,21,England,Sheffield Utd,Attacker,2,0,11,0,,2.0,0.0,0,0
+J. Fleck,34,Scotland,Sheffield Utd,Midfielder,4,1,90,0,,40.0,0.0,1,0
+M. Holgate,29,England,Sheffield Utd,Defender,10,9,714,0,0.0,165.0,0.0,3,1
+J. Buyabu,22,England,Sheffield Utd,Defender,0,0,0,0,,,0.0,0,0
+I. Coulibaly,25,Mali,Sheffield Utd,Midfielder,0,0,0,0,,,0.0,0,0
+Vinicius Souza,26,Brazil,Sheffield Utd,Midfielder,36,29,2670,1,0.0,974.0,0.0,3,0
+J. Bogle,25,England,Sheffield Utd,Defender,34,32,2795,3,0.0,768.0,0.0,9,0
+S. Berge,27,Norway,Sheffield Utd,Midfielder,0,0,0,0,2.0,1547.0,0.0,0,0
+J. Egan,33,Republic of Ireland,Sheffield Utd,Defender,6,6,484,0,,183.0,0.0,2,0
+W. Foderingham,34,England,Sheffield Utd,Goalkeeper,30,29,2648,0,0.0,944.0,0.0,2,0
+W. Osula,22,Denmark,Sheffield Utd,Attacker,21,9,781,0,,90.0,0.0,4,0
+J. McAtee,23,England,Sheffield Utd,Midfielder,30,20,1825,3,,,0.0,2,0
+I. Ndiaye,25,Senegal,Sheffield Utd,Attacker,0,0,0,0,,,,0,0
+B. Traoré,23,Côte d'Ivoire,Sheffield Utd,Attacker,8,3,384,0,,67.0,0.0,0,0
+S. Curtis,20,Republic of Ireland,Sheffield Utd,Defender,1,0,27,0,,7.0,0.0,0,0
+J. Amissah,24,Ghana,Sheffield Utd,Goalkeeper,0,0,0,0,,,0.0,0,0
+A. Trusty,27,USA,Sheffield Utd,Defender,32,28,2573,0,0.0,846.0,0.0,4,0
+B. Brereton,26,Chile,Sheffield Utd,Attacker,14,14,1111,6,1.0,253.0,1.0,3,0
+C. Archer,24,England,Sheffield Utd,Attacker,29,21,1836,4,,6.0,0.0,1,0
+M. Lowe,28,England,Sheffield Utd,Defender,10,4,500,0,1.0,107.0,0.0,1,0
+Billy Blacker,19,England,Sheffield Utd,Attacker,0,0,0,0,,,0.0,0,0
+R. Brewster,25,England,Sheffield Utd,Attacker,13,3,340,0,0.0,73.0,0.0,0,1
+R. Oné,19,Scotland,Sheffield Utd,Attacker,1,0,7,0,,1.0,0.0,0,0
+A. Brooks,22,England,Sheffield Utd,Midfielder,20,12,942,0,0.0,248.0,0.0,1,0
+T. Davies,27,England,Sheffield Utd,Midfielder,9,2,216,0,,92.0,0.0,2,0
+Sydie Peck,21,England,Sheffield Utd,Midfielder,1,0,9,0,,1.0,0.0,0,0
+Owen Hampson,21,England,Sheffield Utd,Midfielder,0,0,0,0,,,0.0,0,0
+G. Hamer,28,Netherlands,Sheffield Utd,Midfielder,36,34,2923,4,6.0,981.0,0.0,9,0
+R. Norrington-Davies,26,Wales,Sheffield Utd,Defender,5,2,109,0,,54.0,0.0,1,0
+J. Robinson,32,England,Sheffield Utd,Defender,34,31,2886,1,1.0,1061.0,0.0,10,0
+F. Seriki,23,England,Sheffield Utd,Defender,0,0,0,0,,,0.0,0,0
+S. Sachdev,20,England,Sheffield Utd,Defender,0,0,0,0,,,,0,0
+I. Grbić,29,Croatia,Sheffield Utd,Goalkeeper,9,9,772,0,,271.0,0.0,1,0
+A. Davies,33,Wales,Sheffield Utd,Goalkeeper,0,0,0,0,,,0.0,0,0
+D. Jebbison,22,Canada,Sheffield Utd,Attacker,1,0,20,0,0.0,3.0,0.0,0,0
+L. Thomas,24,England,Sheffield Utd,Defender,12,11,920,0,,275.0,0.0,3,0
+B. Osborn,31,England,Sheffield Utd,Midfielder,24,14,1362,0,2.0,506.0,0.0,3,0
+G. Baldock,31,Greece,Sheffield Utd,Defender,13,11,969,0,1.0,319.0,0.0,4,0
+O. Arblaster,21,England,Sheffield Utd,Midfielder,0,0,0,0,0.0,426.0,0.0,0,0
+L. Marsh,21,England,Sheffield Utd,Attacker,0,0,0,0,,,0.0,0,0
+A. Ahmedhodžić,26,Bosnia and Herzegovina,Sheffield Utd,Defender,31,29,2649,2,0.0,953.0,0.0,10,0
+A. Ben Slimane,24,Tunisia,Sheffield Utd,Midfielder,15,4,412,0,,134.0,0.0,2,0
+N. Zaniolo,26,Italy,Aston Villa,Midfielder,25,9,831,2,,208.0,0.0,7,0
+K. Hause,30,England,Aston Villa,Defender,0,0,0,0,,,,0,0
+Joshua Feeney,20,England,Aston Villa,Defender,0,0,0,0,,,,0,0
+C. Chambers,30,England,Aston Villa,Defender,5,1,148,0,1.0,113.0,0.0,1,0
+L. Emery,22,Spain,Aston Villa,Goalkeeper,0,0,0,0,,,0.0,0,0
+K. Young,19,England,Aston Villa,Attacker,0,0,0,0,,,0.0,0,0
+M. Nakamba,31,Zimbabwe,Aston Villa,Midfielder,0,0,0,0,,415.0,0.0,0,0
+T. O&apos;Reilly,22,England,Aston Villa,Midfielder,0,0,0,0,,,0.0,0,0
+Finley Munroe,20,England,Aston Villa,Defender,1,0,3,0,0.0,1.0,0.0,0,0
+J. Wright,21,England,Aston Villa,Goalkeeper,0,0,0,0,,,0.0,0,0
+S. Proctor,19,England,Aston Villa,Goalkeeper,0,0,0,0,,,0.0,0,0
+B. Traoré,30,Burkina Faso,Aston Villa,Attacker,2,0,9,0,,3.0,0.0,0,0
+Douglas Luiz,27,Brazil,Aston Villa,Midfielder,35,35,3003,9,5.0,1973.0,4.0,12,0
+K. Davis,27,England,Aston Villa,Attacker,0,0,0,0,,,,0,0
+T. Iroegbunam,22,England,Aston Villa,Midfielder,9,1,157,0,0.0,55.0,0.0,0,0
+O. Kellyman,20,England,Aston Villa,Midfielder,2,0,35,0,0.0,7.0,0.0,0,0
+O. Watkins,30,England,Aston Villa,Attacker,37,37,3227,19,13.0,590.0,0.0,4,0
+M. Rogers,23,England,Aston Villa,Attacker,11,8,639,3,1.0,188.0,0.0,3,0
+J. Ramsey,24,England,Aston Villa,Midfielder,16,8,848,1,1.0,310.0,0.0,2,0
+E. Buendía,29,Argentina,Aston Villa,Midfielder,0,0,0,0,,,,0,0
+Y. Tielemans,28,Belgium,Aston Villa,Midfielder,32,17,1619,2,6.0,907.0,0.0,3,0
+J.  McGinn,31,Scotland,Aston Villa,Midfielder,35,35,3010,6,4.0,1142.0,0.0,9,1
+L. Dendoncker,30,Belgium,Aston Villa,Midfielder,8,1,113,1,,56.0,0.0,0,0
+B. Kamara,26,France,Aston Villa,Midfielder,20,20,1662,0,1.0,1024.0,0.0,7,1
+L. Bailey,28,Jamaica,Aston Villa,Midfielder,35,22,2076,10,9.0,701.0,0.0,5,0
+Pau Torres,28,Spain,Aston Villa,Defender,29,27,2464,2,,1770.0,0.0,1,0
+Álex Moreno,32,Spain,Aston Villa,Defender,21,11,1028,2,,408.0,0.0,2,0
+M. Cash,28,Poland,Aston Villa,Defender,29,23,2143,2,2.0,1028.0,0.0,8,0
+E. Konsa,28,England,Aston Villa,Defender,35,35,3074,1,0.0,1953.0,0.0,5,0
+T. Mings,32,England,Aston Villa,Defender,1,1,31,0,,5.0,0.0,0,0
+L. Digne,32,France,Aston Villa,Defender,33,27,2413,1,3.0,1014.0,0.0,7,0
+F. Marschall,22,England,Aston Villa,Goalkeeper,0,0,0,0,,,0.0,0,0
+J. Gauci,25,Australia,Aston Villa,Goalkeeper,0,0,0,0,,,0.0,0,0
+E. Martínez,33,Argentina,Aston Villa,Goalkeeper,34,34,3016,0,,1272.0,0.0,4,0
+O. Zych,21,Poland,Aston Villa,Goalkeeper,0,0,0,0,,,0.0,0,0
+V. Sinisalo,24,Finland,Aston Villa,Goalkeeper,0,0,0,0,,,,0,0
+Diego Carlos,32,Brazil,Aston Villa,Defender,27,20,1811,0,0.0,1339.0,0.0,4,0
+J. Durán,22,Colombia,Aston Villa,Attacker,23,3,457,5,0.0,114.0,0.0,5,0
+M. Diaby,26,France,Aston Villa,Attacker,38,25,2183,6,8.0,569.0,0.0,1,0
+Philippe Coutinho,33,Brazil,Aston Villa,Midfielder,2,0,24,0,,24.0,0.0,0,0
+S. Revan,22,England,Aston Villa,Defender,0,0,0,0,,,,0,0
+C. Archer,24,England,Aston Villa,Attacker,1,0,5,0,,6.0,0.0,1,0
+J. Philogene,23,England,Aston Villa,Attacker,1,0,3,0,,4.0,0.0,0,0
+K. Kesler-Hayden,23,England,Aston Villa,Defender,3,0,3,0,0.0,,0.0,0,0
+C. Lenglet,30,France,Aston Villa,Defender,14,14,1156,0,1.0,910.0,0.0,3,0
+R. Olsen,35,Sweden,Aston Villa,Goalkeeper,5,4,404,0,0.0,184.0,0.0,0,0
+L. Mbe Soh,24,France,Nottingham Forest,Defender,0,0,0,0,,,,0,0
+C. Kouyaté,35,Senegal,Nottingham Forest,Midfielder,12,2,204,0,0.0,73.0,0.0,2,0
+Felipe,35,Brazil,Nottingham Forest,Defender,7,4,373,0,,213.0,0.0,4,0
+S. Aurier,32,Côte d'Ivoire,Nottingham Forest,Defender,12,10,835,0,2.0,391.0,0.0,2,0
+D. Origi,30,Belgium,Nottingham Forest,Attacker,20,6,598,0,1.0,131.0,0.0,1,0
+D. Osong,21,England,Nottingham Forest,Attacker,0,0,0,0,,,0.0,0,0
+H. Toffolo,30,England,Nottingham Forest,Defender,23,15,1454,1,3.0,446.0,0.0,3,0
+Jamie Carson McDonnell,21,Northern Ireland,Nottingham Forest,Midfielder,0,0,0,0,,,0.0,0,0
+E. Horvath,30,USA,Nottingham Forest,Goalkeeper,0,0,0,0,,,0.0,0,0
+G. Shelvey,24,England,Nottingham Forest,Goalkeeper,0,0,0,0,,,,0,0
+O. Hammond,23,Wales,Nottingham Forest,Midfielder,0,0,0,0,,,,0,0
+Joseph Charles Gardner,20,England,Nottingham Forest,Attacker,0,0,0,0,,,0.0,0,0
+O. Mangala,27,Belgium,Nottingham Forest,Midfielder,20,19,1571,1,,642.0,0.0,6,0
+M. Niakhaté,29,Senegal,Nottingham Forest,Defender,21,15,1457,1,0.0,688.0,0.0,4,0
+A. Omobamidele,23,Republic of Ireland,Nottingham Forest,Defender,11,8,780,0,,309.0,0.0,2,0
+Nuno Tavares,25,Portugal,Nottingham Forest,Defender,8,5,455,0,,218.0,0.0,2,0
+R. Freuler,33,Switzerland,Nottingham Forest,Midfielder,0,0,0,0,,,0.0,0,0
+G. Reyna,23,USA,Nottingham Forest,Midfielder,9,2,230,0,1.0,129.0,0.0,0,0
+E. Dennis,28,Nigeria,Nottingham Forest,Attacker,0,0,0,0,,,,0,0
+C. Wood,34,New Zealand,Nottingham Forest,Attacker,31,20,1808,14,1.0,431.0,0.0,0,0
+T. Awoniyi,28,Nigeria,Nottingham Forest,Attacker,20,12,1045,6,3.0,172.0,0.0,2,0
+C. Hudson-Odoi,25,England,Nottingham Forest,Attacker,29,20,1854,8,1.0,647.0,0.0,0,0
+M. Gibbs-White,25,England,Nottingham Forest,Midfielder,37,35,3162,5,10.0,1282.0,1.0,9,0
+N. Domínguez,27,Argentina,Nottingham Forest,Midfielder,26,19,1504,2,2.0,829.0,0.0,4,0
+R. Yates,28,England,Nottingham Forest,Midfielder,35,21,1985,1,1.0,817.0,0.0,6,0
+Danilo,24,Brazil,Nottingham Forest,Midfielder,29,20,1797,2,2.0,726.0,0.0,4,0
+I. Sangaré,28,Côte d'Ivoire,Nottingham Forest,Midfielder,17,13,1040,0,0.0,419.0,0.0,6,0
+L. O&apos;Brien,27,England,Nottingham Forest,Midfielder,0,0,0,0,,,0.0,0,0
+O. Aina,29,Nigeria,Nottingham Forest,Defender,22,20,1701,1,1.0,632.0,0.0,3,0
+N. Williams,24,Wales,Nottingham Forest,Defender,26,18,1633,0,1.0,597.0,0.0,4,0
+O. Richards,27,England,Nottingham Forest,Defender,0,0,0,0,,,,0,0
+Murillo,23,Brazil,Nottingham Forest,Defender,32,32,2793,0,2.0,1445.0,0.0,5,0
+W. Boly,34,Côte d'Ivoire,Nottingham Forest,Defender,20,18,1443,2,1.0,612.0,0.0,2,0
+M. Sels,33,Belgium,Nottingham Forest,Goalkeeper,16,16,1440,0,0.0,325.0,0.0,1,0
+M. Turner,31,USA,Nottingham Forest,Goalkeeper,17,17,1530,0,,473.0,0.0,2,0
+W. Hennessey,38,Wales,Nottingham Forest,Goalkeeper,0,0,0,0,,,0.0,0,0
+J. Shelvey,33,England,Nottingham Forest,Midfielder,0,0,0,0,,,,0,0
+J. Worrall,28,England,Nottingham Forest,Defender,7,5,439,0,,161.0,0.0,0,1
+B. Johnson,24,Wales,Nottingham Forest,Attacker,3,3,240,0,,58.0,0.0,0,0
+A. Elanga,23,Sweden,Nottingham Forest,Attacker,36,25,2433,5,9.0,645.0,0.0,1,0
+O. Vlachodimos,31,Greece,Nottingham Forest,Goalkeeper,5,5,450,0,,153.0,0.0,0,0
+Andrey Santos,21,Brazil,Nottingham Forest,Midfielder,1,0,7,0,,,0.0,0,0
+Hwang Ui-Jo,33,Korea Republic,Nottingham Forest,Attacker,0,0,0,0,,,0.0,0,0
+B. Aguilera,22,Costa Rica,Nottingham Forest,Midfielder,1,0,4,0,,8.0,0.0,0,0
+J. Panzo,25,England,Nottingham Forest,Defender,0,0,0,0,,,,0,0
+Rodrigo Ribeiro,20,Portugal,Nottingham Forest,Attacker,4,0,13,0,0.0,8.0,0.0,0,0
+R. Laryea,30,Canada,Nottingham Forest,Defender,0,0,0,0,,,,0,0
+S. Surridge,27,England,Nottingham Forest,Attacker,0,0,0,0,,,,0,0
+Gustavo Scarpa,31,Brazil,Nottingham Forest,Midfielder,0,0,0,0,,,,0,0
+S. Cook,34,England,Nottingham Forest,Defender,0,0,0,0,,,,0,0

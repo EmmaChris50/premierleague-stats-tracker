@@ -1,0 +1,21 @@
+team_id,team_name,position,games_played,form,wins,draws,losses,points,goalsFor,goals_against,goal_difference,tla
+65,Manchester City FC,1,38,"W,W,W,W,W",28,7,3,91,96,34,62,MCI
+57,Arsenal FC,2,38,"W,W,W,W,W",28,5,5,89,91,29,62,ARS
+64,Liverpool FC,3,38,"W,D,W,D,L",24,10,4,82,86,41,45,LIV
+58,Aston Villa FC,4,38,"L,D,L,D,W",20,8,10,68,76,61,15,AVL
+73,Tottenham Hotspur FC,5,38,"W,L,W,L,L",20,6,12,66,74,61,13,TOT
+61,Chelsea FC,6,38,"W,W,W,W,W",18,9,11,63,77,63,14,CHE
+67,Newcastle United FC,7,38,"W,L,D,W,W",18,6,14,60,85,62,23,NEW
+66,Manchester United FC,8,38,"W,W,L,L,D",18,6,14,60,57,58,-1,MUN
+563,West Ham United FC,9,38,"L,W,L,D,L",14,10,14,52,60,74,-14,WHU
+354,Crystal Palace FC,10,38,"W,W,W,D,W",13,10,15,49,57,58,-1,CRY
+397,Brighton & Hove Albion FC,11,38,"L,L,D,W,L",12,12,14,48,55,62,-7,BHA
+62,Everton FC,12,38,"L,W,D,W,W",13,9,16,48,40,51,-11,EVE
+1044,AFC Bournemouth,13,38,"L,L,L,W,W",13,9,16,48,54,67,-13,BOU
+63,Fulham FC,14,38,"W,L,D,D,L",13,8,17,47,55,61,-6,FUL
+76,Wolverhampton Wanderers FC,15,38,"L,L,L,W,L",13,7,18,46,50,65,-15,WOL
+402,Brentford FC,16,38,"L,W,D,L,W",10,9,19,39,56,65,-9,BRE
+351,Nottingham Forest FC,17,38,"W,L,W,L,L",9,9,20,36,49,67,-18,NOT
+389,Luton Town FC,18,38,"L,L,D,L,L",6,8,24,26,52,85,-33,LUT
+328,Burnley FC,19,38,"L,L,L,D,W",5,9,24,24,41,78,-37,BUR
+356,Sheffield United FC,20,38,"L,L,L,L,L",3,7,28,16,35,104,-69,SHE
