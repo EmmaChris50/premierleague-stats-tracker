@@ -4,7 +4,10 @@ import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
 
-
+st.markdown("""
+<style>div[data-testid="stToolbar"]{display:none;}</style>
+    """
+)
 
 # Load datasets
 matches_df = pd.read_csv("data/matches_clean.csv")
