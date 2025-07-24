@@ -64,7 +64,7 @@ elif view == "Team Stats":
     away_goals = matches_df.groupby("away_team")["away_goals"].sum()
     total_goals = home_goals.add(away_goals, fill_value=0).reset_index()
     total_goals.columns = ["team_name", "total_goals"]
-
+ 
     fig3 = px.bar(total_goals,
                   x="team_name", y="total_goals", color="total_goals",
                   text='total_goals',
@@ -73,6 +73,15 @@ elif view == "Team Stats":
 
     fig3.update_traces(textposition='outside')
     st.plotly_chart(fig3, use_container_width=True)
+
+    fig4 = px.scatter(team_stats,
+        x='goal_difference',
+        y='points',
+        title='Goal Difference vs Final points',
+        labels={'goal_differnce':'Goal Difference', 'points':'Points'},
+        trendline='ols'
+    )
+    st.plotly_chart(fig4, use_container_width=True)
 
 
 # Top Scorers View
