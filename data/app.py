@@ -3,8 +3,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
+import seaborn as sns
 
-<<<<<<< HEAD
 st.markdown(
     """
     <style>
@@ -13,12 +13,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )       
-=======
-st.markdown("""
-<style>div[data-testid="stToolbar"]{display:none;}</style>
-    """, unsafe_allow_html=True
-)
->>>>>>> 65d9a747984bd83a2058bdd35d0d5a76e1156f6a
 
 # Load datasets
 matches_df = pd.read_csv("data/matches_clean.csv")
