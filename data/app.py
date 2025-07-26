@@ -7,22 +7,6 @@ import seaborn as sns
 import statsmodels.api as sm
 
      
-st.markdown(
-    """
-    <style>
-    /* Hide specific buttons in the top-right toolbar */
-    div[data-testid="stToolbar"] {
-        visibility: hidden;
-    }
-
-    /* remove the extra spacing in the header toolbar */
-    header[data-testid="stHeader"] {
-        padding-right: 0rem;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
 
 
 
