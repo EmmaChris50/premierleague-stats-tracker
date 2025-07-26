@@ -14,7 +14,17 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )       
-
+st.markdown(
+    """
+    <style>
+    /* Keep sidebar visible */
+    section[data-testid="stSidebar"] {
+        display: block !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 # Load datasets
 matches_df = pd.read_csv("data/matches_clean.csv")
 team_stats = pd.read_csv("data/team_stats.csv")
