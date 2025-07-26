@@ -10,19 +10,25 @@ import statsmodels.api as sm
 st.markdown(
     """
     <style>
-    /* Hide the top-right Streamlit toolbar */
-    div[data-testid="stDecoration"] {
+    /* Hide specific buttons in the top-right toolbar */
+    div[data-testid="stToolbar"] {
+        visibility: hidden;
+    }
+
+    /* Optional: remove the GitHub, pencil, and more icons */
+    div[data-testid="stToolbar"] button {
         display: none !important;
     }
 
-    /* Hide the toolbar options (Share, Edit, GitHub, ... menu) */
-    div[data-testid="stToolbar"] {
-        display: none !important;
+    /* remove the extra spacing in the header toolbar */
+    header[data-testid="stHeader"] {
+        padding-right: 0rem;
     }
     </style>
     """,
     unsafe_allow_html=True
 )
+
 
 
 # Load datasets
