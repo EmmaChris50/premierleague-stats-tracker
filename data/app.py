@@ -6,14 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import statsmodels.api as sm
 
-st.markdown(
-    """
-    <style>
-    div[data-testid="stToolbar"] {display: none;}
-    </style>
-    """,
-    unsafe_allow_html=True
-)       
+    
 st.markdown(
     """
     <style>
