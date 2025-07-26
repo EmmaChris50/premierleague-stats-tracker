@@ -15,11 +15,6 @@ st.markdown(
         visibility: hidden;
     }
 
-    /* Optional: remove the GitHub, pencil, and more icons */
-    div[data-testid="stToolbar"] button {
-        display: none !important;
-    }
-
     /* remove the extra spacing in the header toolbar */
     header[data-testid="stHeader"] {
         padding-right: 0rem;
