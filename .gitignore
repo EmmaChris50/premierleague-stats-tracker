@@ -1,0 +1,17 @@
+#ignore pycache
+__pycache__/
+
+
+#ignore key files
+__notebook__/
+keys.py
+.env
+
+#ignore checkpoints
+__notebooks_checkpoints__/
+
+
+
+
+
+
