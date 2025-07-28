@@ -11,9 +11,9 @@ import statsmodels.api as sm
 
 
 # Load datasets
-matches_df = pd.read_csv("data/matches_clean.csv")
-team_stats = pd.read_csv("data/team_stats.csv")
-scorers_df = pd.read_csv("data/scorers.csv")
+matches_df = pd.read_csv("data/matches_clean(st).csv")
+team_stats = pd.read_csv("data/team_stats(st).csv")
+scorers_df = pd.read_csv("data/scorers(st).csv")
 
 # App Title and Sidebar
 st.set_page_config(page_title="Premier League Dashboard", layout="wide")
