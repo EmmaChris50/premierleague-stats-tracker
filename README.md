@@ -32,13 +32,22 @@ soccer-impact-tracker/
 ├── data/                          # Data files and application
 │   ├── app.py                     # Main Streamlit application
 │   ├── requirements.txt           # Python dependencies
-│   ├── matches_clean(st).csv      # Processed match data
-│   ├── team_stats(st).csv         # Team performance statistics
-│   ├── scorers(st).csv            # Player goal-scoring data
-│   └── players_cleaned.csv        # Cleaned player statistics
+│   ├── clean/                     # Cleaned and processed data
+│   │   ├── matches_clean.csv      # Processed match data
+│   │   └── players_cleaned.csv    # Cleaned player statistics
+│   ├── preprocessed/              # Preprocessed data files
+│   │   ├── matches.csv            # Preprocessed match data
+│   │   ├── team_stats.csv         # Team performance statistics
+│   │   └── scorers.csv            # Player goal-scoring data
+│   ├── matches.csv                # Raw match data
+│   ├── team_stats.csv             # Raw team statistics
+│   ├── teams.csv                  # Team information
+│   └── players.csv                # Raw player data
 ├── notebooks/                     # Jupyter notebooks
 │   ├── fetch_football_data.ipynb  # Data collection and processing
 │   └── eda.ipynb                  # Exploratory data analysis
+├── app/                           # Application modules (if any)
+├── tests/                         # Unit tests
 ├── .env                          # Environment variables (API keys)
 ├── .gitignore                    # Git ignore rules
 └── README.md                     # Project documentation
@@ -97,22 +106,30 @@ soccer-impact-tracker/
 
 ### Data Files Description
 
-| File | Description | Source |
-|------|-------------|---------|
-| `matches_clean(st).csv` | Processed match data with goals, teams, and dates | Football-Data.org |
-| `team_stats(st).csv` | Team performance metrics and standings | Football-Data.org |
-| `scorers(st).csv` | Player goal-scoring statistics | API-Football |
-| `players_cleaned.csv` | Comprehensive player statistics | API-Football |
+| File | Description | Source | Location |
+|------|-------------|---------|----------|
+| `matches_clean.csv` | Processed match data with goals, teams, and dates | Football-Data.org | `data/clean/` |
+| `players_cleaned.csv` | Comprehensive player statistics | API-Football | `data/clean/` |
+| `matches.csv` | Preprocessed match data | Football-Data.org | `data/preprocessed/` |
+| `team_stats.csv` | Team performance metrics and standings | Football-Data.org | `data/preprocessed/` |
+| `scorers.csv` | Player goal-scoring statistics | API-Football | `data/preprocessed/` |
+| `matches.csv` | Raw match data | Football-Data.org | `data/` |
+| `team_stats.csv` | Raw team statistics | Football-Data.org | `data/` |
+| `teams.csv` | Team information | Football-Data.org | `data/` |
+| `players.csv` | Raw player data | API-Football | `data/` |
 
 ### Data Collection Process
 
 The data collection process is documented in `notebooks/fetch_football_data.ipynb` and includes:
 
-1. **Match Data Collection**: Fetches all Premier League matches for the 2023/24 season
-2. **Team Information**: Collects team details, standings, and performance metrics
-3. **Player Statistics**: Gathers detailed player performance data
-4. **Data Cleaning**: Processes and validates the collected data
-5. **Data Export**: Saves cleaned data to CSV files
+1. **Raw Data Collection**: Fetches all Premier League matches, team data, and player statistics
+2. **Data Preprocessing**: Initial cleaning and formatting of raw data
+3. **Data Cleaning**: Advanced processing, validation, and standardization
+4. **Data Organization**: Structured storage in appropriate directories:
+   - `data/`: Raw data files
+   - `data/preprocessed/`: Intermediate processed data
+   - `data/clean/`: Final cleaned and analysis-ready data
+5. **Data Export**: Saves processed data to appropriate directories based on processing stage
 
 ## 🔧 Configuration
 
@@ -163,8 +180,10 @@ This project follows Python best practices:
 
 1. **Data Collection**: Automated API calls with rate limiting
 2. **Data Validation**: Checks for missing data and inconsistencies
-3. **Data Cleaning**: Handles duplicates, null values, and data type conversions
-4. **Data Export**: Saves processed data in standardized formats
+3. **Data Preprocessing**: Initial cleaning and formatting
+4. **Data Cleaning**: Advanced processing, validation, and standardization
+5. **Data Organization**: Structured storage in appropriate directories
+6. **Data Export**: Saves processed data in standardized formats
 
 ### Security Features
 
@@ -201,6 +220,7 @@ streamlit run data/app.py
 - **Teams**: 20 Premier League teams
 - **Players**: 476 players with 5+ appearances
 - **Data Points**: Comprehensive statistics including goals, assists, cards, and more
+- **Data Pipeline**: Multi-stage processing from raw to clean data
 
 ### Key Findings
 - Correlation between goals scored and league points
@@ -259,6 +279,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ Enhanced error handling and data validation
 - ✅ Improved code structure and documentation
 - ✅ Updated dependencies with version specifications
+- ✅ Reorganized data structure with clear separation of raw, preprocessed, and clean data
+- ✅ Updated file naming conventions for better organization
 
 ### Planned Features
 - [ ] Real-time data updates
