@@ -2,18 +2,18 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import matplotlib.pyplot as plt
-import seaborn as sns
-import statsmodels.api as sm
 
-     
-
-
-
-# Load datasets
-matches_df = pd.read_csv("data/matches_clean(st).csv")
-team_stats = pd.read_csv("data/team_stats(st).csv")
-scorers_df = pd.read_csv("data/scorers(st).csv")
+# Load datasets with error handling
+try:
+    matches_df = pd.read_csv("data/preprocessed/matches_clean.csv")
+    team_stats = pd.read_csv("data/preprocessed/team_stats.csv")
+    scorers_df = pd.read_csv("data/preprocessed/scorers(st).csv")
+except FileNotFoundError as e:
+    st.error(f"Data file not found: {e}")
+    st.stop()
+except Exception as e:
+    st.error(f"Error loading data: {e}")
+    st.stop()
 
 # App Title and Sidebar
 st.set_page_config(page_title="Premier League Dashboard", layout="wide")
@@ -56,7 +56,7 @@ elif view == "Team Stats":
     fig2.update_traces(textposition='top center')
     st.plotly_chart(fig2, use_container_width=True)
 
-  # Total Goals per Team - Bar Chart
+    # Total Goals per Team - Bar Chart
     home_goals = matches_df.groupby("home_team")["home_goals"].sum()
     away_goals = matches_df.groupby("away_team")["away_goals"].sum()
     total_goals = home_goals.add(away_goals, fill_value=0).reset_index()
@@ -74,7 +74,7 @@ elif view == "Team Stats":
     fig4 = px.scatter(team_stats,
         x='goal_difference',
         y='points',
-        title='Goal Difference vs Final points',
+        title='Goal Difference vs Final Points',
         labels={'goal_differnce':'Goal Difference', 'points':'Points'},
         trendline='ols'
     )
