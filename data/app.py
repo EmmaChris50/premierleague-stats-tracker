@@ -5,9 +5,9 @@ import plotly.express as px
 
 # Load datasets with error handling
 try:
-    matches_df = pd.read_csv("data/preprocessed/matches.csv")
-    team_stats = pd.read_csv("data/preprocessed/team_stats.csv")
-    scorers_df = pd.read_csv("data/preprocessed/scorers.csv")
+    matches_df = pd.read_csv("data/clean/matches_clean.csv")
+    team_stats = pd.read_csv("data/clean/team_stats_clean.csv")
+    scorers_df = pd.read_csv("data/clean/player_clean.csv")
 except FileNotFoundError as e:
     st.error(f"Data file not found: {e}")
     st.stop()
