@@ -109,10 +109,10 @@ soccer-impact-tracker/
 | File | Description | Source | Location |
 |------|-------------|---------|----------|
 | `matches_clean.csv` | Processed match data with goals, teams, and dates | Football-Data.org | `data/clean/` |
-| `players_cleaned.csv` | Comprehensive player statistics | API-Football | `data/clean/` |
+| `players_clean.csv` | Comprehensive player statistics | API-Football | `data/clean/` |
+| `team_stats_clean.csv` | Team performance metrics and standings | Football-Data.org | `data/clean/` |
 | `matches.csv` | Preprocessed match data | Football-Data.org | `data/preprocessed/` |
-| `team_stats.csv` | Team performance metrics and standings | Football-Data.org | `data/preprocessed/` |
-| `scorers.csv` | Player goal-scoring statistics | API-Football | `data/preprocessed/` |
+| `players.csv` | Player goal-scoring statistics | API-Football | `data/preprocessed/` |
 | `matches.csv` | Raw match data | Football-Data.org | `data/` |
 | `team_stats.csv` | Raw team statistics | Football-Data.org | `data/` |
 | `teams.csv` | Team information | Football-Data.org | `data/` |
